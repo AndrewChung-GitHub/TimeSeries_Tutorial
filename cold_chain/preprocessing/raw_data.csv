@@ -1,0 +1,1694 @@
+Timestamp,A TEMP_Status,A TEMP_Trend Flags,A TEMP_Value (°„F),B TEMP_Status,B TEMP_Trend Flags,B TEMP_Value (°„F),C TEMP_Status,C TEMP_Trend Flags,C TEMP_Value (°„F),DEFROST_Status,DEFROST_Trend Flags,DEFROST_Value,DISCHRG_PSIG_Status,DISCHRG_PSIG_Trend Flags,DISCHRG_PSIG_Value (psi),SUCTION_PSIG_Status,SUCTION_PSIG_Trend Flags,SUCTION_PSIG_Value (psi),refrigeration_Status,refrigeration_Trend Flags,refrigeration_Value
+2019-10-08 18:10:00,"{fault,down,stale}",{start},-40.0,"{fault,down,stale}",{start},-40.0,"{fault,down,stale}",{start},-40.0,,,,"{fault,down,stale}",{start},-100.0,"{fault,down,stale}",{start},-25.0,,,
+2019-10-08 18:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 18:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 18:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 18:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 19:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 19:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 19:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 19:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 19:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 19:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 20:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 20:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 20:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 20:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 20:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 20:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 21:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 21:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 21:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 21:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 21:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 21:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 22:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 22:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 22:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 22:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 22:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 22:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 23:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 23:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 23:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 23:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 23:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-08 23:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 00:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 00:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 00:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 00:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 00:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 00:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 01:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 01:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 01:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 01:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 01:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 01:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 02:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 02:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 02:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 02:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 02:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 02:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 03:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 03:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 03:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 03:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 03:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 03:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 04:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 04:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 04:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 04:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 04:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 04:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 05:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 05:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 05:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 05:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 05:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 05:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 06:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 06:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 06:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 06:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 06:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 06:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 07:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 07:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 07:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 07:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 07:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 07:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 08:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 08:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 08:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 08:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 08:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 08:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 09:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 09:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 09:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 09:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 09:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 09:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 10:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 10:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 10:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 10:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 10:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 10:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 11:00:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 11:10:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 11:20:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 11:30:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 11:40:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 11:50:00,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,"{fault,down,stale}",{ },-40.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 12:00:00,"{fault,alarm,unackedAlarm}",{ },-39.5,{ok},{ },-17.0,"{fault,alarm,unackedAlarm}",{ },88.0,,,,"{fault,down,stale}",{ },-100.0,"{fault,down,stale}",{ },-25.0,,,
+2019-10-09 12:10:00,"{fault,alarm,unackedAlarm}",{ },-39.5,{ok},{ },-17.0,"{fault,alarm,unackedAlarm}",{ },88.0,,,,{ok},{ },217.9,{ok},{ },10.5,,,
+2019-10-09 12:16:30,,,,,,,,,,{down},{start},OFF,,,,,,,,,
+2019-10-09 12:16:35,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-09 12:20:00,"{fault,alarm,unackedAlarm}",{ },-39.5,{ok},{ },-16.5,"{fault,alarm,unackedAlarm}",{ },88.0,,,,{ok},{ },202.7,{ok},{ },14.1,,,
+2019-10-09 12:30:00,"{fault,alarm,unackedAlarm}",{ },-39.5,{ok},{ },-16.5,"{fault,alarm,unackedAlarm}",{ },88.0,,,,{ok},{ },219.8,{ok},{ },9.9,,,
+2019-10-09 12:40:00,"{fault,alarm,unackedAlarm}",{ },-39.5,{ok},{ },-17.0,"{fault,alarm,unackedAlarm}",{ },88.0,,,,{ok},{ },221.3,{ok},{ },9.4,,,
+2019-10-09 12:50:00,"{fault,alarm,unackedAlarm}",{ },-39.5,{ok},{ },-17.5,"{fault,alarm,unackedAlarm}",{ },88.0,,,,{ok},{ },220.8,{ok},{ },9.6,,,
+2019-10-09 13:00:00,"{fault,alarm,unackedAlarm}",{ },-39.5,{ok},{ },-3.5,"{fault,alarm,unackedAlarm}",{ },88.0,,,,{ok},{ },217.4,{ok},{ },12.7,,,
+2019-10-09 13:10:00,"{fault,alarm,unackedAlarm}",{ },-1.0,{ok},{ },12.5,"{fault,alarm,unackedAlarm}",{ },88.0,,,,{ok},{ },201.3,{ok},{ },12.1,,,
+2019-10-09 13:20:00,"{fault,alarm,unackedAlarm}",{ },-19.5,{ok},{ },-11.0,"{fault,alarm,unackedAlarm}",{ },88.0,,,,{ok},{ },201.3,{ok},{ },12.6,,,
+2019-10-09 13:30:00,"{fault,alarm,unackedAlarm}",{ },-29.0,{ok},{ },-14.0,"{fault,alarm,unackedAlarm}",{ },88.0,,,,{ok},{ },222.8,{ok},{ },9.2,,,
+2019-10-09 13:30:49,,,,,,,,,,{down},{ },OFF,,,,,,,,,
+2019-10-09 13:31:03,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-09 13:40:00,"{fault,alarm,unackedAlarm}",{ },-39.5,{ok},{ },-13.0,"{fault,alarm,unackedAlarm}",{ },88.0,,,,{ok},{ },208.6,{ok},{ },12.7,,,
+2019-10-09 13:50:00,"{fault,alarm,unackedAlarm}",{ },-39.5,{ok},{ },-12.5,"{fault,alarm,unackedAlarm}",{ },88.0,,,,{ok},{ },211.5,{ok},{ },16.6,,,
+2019-10-09 14:00:00,"{fault,alarm,unackedAlarm}",{ },-39.5,{ok},{ },-15.0,"{fault,alarm,unackedAlarm}",{ },88.0,,,,{ok},{ },209.1,{ok},{ },10.5,,,
+2019-10-09 14:00:04,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-09 14:10:00,"{alarm,unackedAlarm}",{ },-6.0,{ok},{ },25.0,"{fault,unackedAlarm}",{ },88.0,,,,{ok},{ },189.6,{ok},{ },12.7,,,
+2019-10-09 14:20:00,"{fault,alarm,unackedAlarm}",{ },-39.5,{ok},{ },46.0,"{fault,unackedAlarm}",{ },88.0,,,,{ok},{ },215.9,{ok},{ },12.7,,,
+2019-10-09 14:30:00,"{alarm,unackedAlarm}",{ },-16.0,{ok},{ },58.0,"{fault,unackedAlarm}",{ },88.0,,,,{ok},{ },235.5,{ok},{ },14.4,,,
+2019-10-09 14:30:12,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-09 14:40:00,"{fault,alarm,unackedAlarm}",{ },-39.5,{ok},{ },9.5,"{fault,unackedAlarm}",{ },88.0,,,,{ok},{ },255.0,{ok},{ },12.1,,,
+2019-10-09 14:50:00,"{fault,alarm,unackedAlarm}",{ },-39.5,{ok},{ },-3.5,"{fault,unackedAlarm}",{ },88.0,,,,{ok},{ },243.8,{ok},{ },12.6,,,
+2019-10-09 15:00:00,"{fault,unackedAlarm}",{ },88.0,{ok},{ },-5.5,{unackedAlarm},{ },-8.0,,,,{ok},{ },239.4,{ok},{ },13.8,,,
+2019-10-09 15:10:00,"{fault,unackedAlarm}",{ },88.0,{ok},{ },-9.0,{unackedAlarm},{ },-4.0,,,,{ok},{ },219.8,{ok},{ },17.9,,,
+2019-10-09 15:20:00,{unackedAlarm},{ },7.5,{ok},{ },-10.5,{unackedAlarm},{ },-1.0,,,,{ok},{ },234.0,{ok},{ },10.0,,,
+2019-10-09 15:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },229.6,{ok},{ },9.2,,,
+2019-10-09 15:40:01,{unackedAlarm},{ },-5.5,{ok},{ },-10.5,{unackedAlarm},{ },-17.5,,,,{ok},{ },219.3,{ok},{ },23.0,,,
+2019-10-09 15:50:00,{unackedAlarm},{ },-4.5,{ok},{ },-10.5,{unackedAlarm},{ },-17.5,,,,{ok},{ },240.8,{ok},{ },14.3,,,
+2019-10-09 16:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },226.7,{ok},{ },11.9,,,
+2019-10-09 16:10:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },236.9,{ok},{ },13.0,,,
+2019-10-09 16:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },228.1,{ok},{ },10.2,,,
+2019-10-09 16:30:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },223.7,{ok},{ },12.1,,,
+2019-10-09 16:40:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-22.5,,,,{ok},{ },224.7,{ok},{ },9.2,,,
+2019-10-09 16:50:00,{unackedAlarm},{ },-4.5,{ok},{ },-11.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },224.2,{ok},{ },11.6,,,
+2019-10-09 17:00:00,{unackedAlarm},{ },-8.0,{ok},{ },-14.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },219.8,{ok},{ },13.1,,,
+2019-10-09 17:30:00,{unackedAlarm},{start},4.5,{ok},{start},-5.0,{unackedAlarm},{start},-10.5,,,,{ok},{start},261.3,{ok},{start},12.0,,,
+2019-10-09 17:40:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },234.5,{ok},{ },11.0,,,
+2019-10-09 17:45:05,,,,,,,,,,{overridden},{start},OFF,,,,,,,,,
+2019-10-09 17:45:09,,,,,,,,,,{overridden},{ },ON,,,,,,,,,
+2019-10-09 17:45:21,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-09 17:45:24,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-09 17:45:49,,,,,,,,,,{overridden},{ },ON,,,,,,,,,
+2019-10-09 17:45:49,,,,,,,,,,{overridden},{ },OFF,,,,,,,,,
+2019-10-09 17:46:00,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-09 17:46:05,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-09 17:50:00,{unackedAlarm},{ },-5.0,{ok},{ },-11.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },228.1,{ok},{ },14.2,,,
+2019-10-09 18:00:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },235.5,{ok},{ },11.9,,,
+2019-10-09 18:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },235.0,{ok},{ },11.4,,,
+2019-10-09 18:20:00,{unackedAlarm},{ },-8.0,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },215.9,{ok},{ },12.6,,,
+2019-10-09 18:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },238.4,{ok},{ },13.2,,,
+2019-10-09 18:40:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },236.4,{ok},{ },12.1,,,
+2019-10-09 18:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-9.0,{unackedAlarm},{ },-17.5,,,,{ok},{ },222.3,{ok},{ },13.9,,,
+2019-10-09 19:00:00,{unackedAlarm},{ },-4.5,{ok},{ },-11.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },257.9,{ok},{ },12.8,,,
+2019-10-09 19:10:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },237.4,{ok},{ },11.9,,,
+2019-10-09 19:20:00,{unackedAlarm},{ },-3.5,{ok},{ },-10.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },261.8,{ok},{ },14.2,,,
+2019-10-09 19:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },245.7,{ok},{ },9.2,,,
+2019-10-09 19:40:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },221.8,{ok},{ },15.0,,,
+2019-10-09 19:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },230.1,{ok},{ },16.1,,,
+2019-10-09 20:00:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },227.2,{ok},{ },14.7,,,
+2019-10-09 20:00:07,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-09 20:10:00,{unackedAlarm},{ },7.0,{ok},{ },23.5,{unackedAlarm},{ },21.0,,,,{ok},{ },211.0,{ok},{ },14.7,,,
+2019-10-09 20:20:00,{unackedAlarm},{ },-10.0,{ok},{ },45.0,{unackedAlarm},{ },45.5,,,,{ok},{ },191.0,{ok},{ },15.9,,,
+2019-10-09 20:30:00,{unackedAlarm},{ },40.5,{ok},{ },57.5,{unackedAlarm},{ },45.0,,,,{ok},{ },194.9,{ok},{ },9.8,,,
+2019-10-09 20:30:09,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-09 20:40:00,{unackedAlarm},{ },6.0,{ok},{ },10.0,{unackedAlarm},{ },3.0,,,,{ok},{ },213.5,{ok},{ },14.1,,,
+2019-10-09 20:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-2.5,{unackedAlarm},{ },-6.0,,,,{ok},{ },211.5,{ok},{ },11.0,,,
+2019-10-09 21:00:00,{unackedAlarm},{ },-3.0,{ok},{ },-6.5,{unackedAlarm},{ },-11.5,,,,{ok},{ },194.0,{ok},{ },15.5,,,
+2019-10-09 21:10:00,{unackedAlarm},{ },-9.5,{ok},{ },-11.0,{unackedAlarm},{ },-17.5,,,,{ok},{ },187.6,{ok},{ },10.6,,,
+2019-10-09 21:20:00,{unackedAlarm},{ },-6.0,{ok},{ },-11.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },176.4,{ok},{ },14.4,,,
+2019-10-09 21:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },183.2,{ok},{ },9.8,,,
+2019-10-09 21:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },184.7,{ok},{ },20.7,,,
+2019-10-09 21:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },197.4,{ok},{ },12.2,,,
+2019-10-09 22:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-6.5,{unackedAlarm},{ },-16.5,,,,{ok},{ },179.3,{ok},{ },12.8,,,
+2019-10-09 22:10:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },183.7,{ok},{ },13.0,,,
+2019-10-09 22:20:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },185.2,{ok},{ },15.0,,,
+2019-10-09 22:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },183.7,{ok},{ },13.8,,,
+2019-10-09 22:40:00,{unackedAlarm},{ },-8.0,{ok},{ },-16.0,{unackedAlarm},{ },-23.5,,,,{ok},{ },174.4,{ok},{ },12.5,,,
+2019-10-09 22:50:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },201.8,{ok},{ },13.2,,,
+2019-10-09 23:00:00,{unackedAlarm},{ },-8.0,{ok},{ },-16.0,{unackedAlarm},{ },-23.5,,,,{ok},{ },183.7,{ok},{ },12.0,,,
+2019-10-09 23:10:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },175.9,{ok},{ },14.9,,,
+2019-10-09 23:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },205.2,{ok},{ },13.3,,,
+2019-10-09 23:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.5,{unackedAlarm},{ },-22.5,,,,{ok},{ },194.4,{ok},{ },8.9,,,
+2019-10-09 23:40:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },200.3,{ok},{ },12.2,,,
+2019-10-09 23:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-8.5,{unackedAlarm},{ },-17.5,,,,{ok},{ },189.6,{ok},{ },13.2,,,
+2019-10-10 00:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },187.6,{ok},{ },17.2,,,
+2019-10-10 00:10:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },177.4,{ok},{ },15.0,,,
+2019-10-10 00:20:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },193.0,{ok},{ },12.1,,,
+2019-10-10 00:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-6.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },167.1,{ok},{ },11.7,,,
+2019-10-10 00:40:00,{unackedAlarm},{ },-6.0,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },175.4,{ok},{ },13.1,,,
+2019-10-10 00:50:00,{unackedAlarm},{ },-9.0,{ok},{ },-17.5,{unackedAlarm},{ },-24.0,,,,{ok},{ },168.6,{ok},{ },10.4,,,
+2019-10-10 01:00:00,{unackedAlarm},{ },-9.0,{ok},{ },-17.0,{unackedAlarm},{ },-24.0,,,,{ok},{ },159.8,{ok},{ },12.6,,,
+2019-10-10 01:10:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },164.2,{ok},{ },15.5,,,
+2019-10-10 01:20:00,{unackedAlarm},{ },-8.5,{ok},{ },-16.5,{unackedAlarm},{ },-23.0,,,,{ok},{ },182.7,{ok},{ },11.4,,,
+2019-10-10 01:30:00,{unackedAlarm},{ },-9.0,{ok},{ },-17.0,{unackedAlarm},{ },-24.5,,,,{ok},{ },166.1,{ok},{ },11.5,,,
+2019-10-10 01:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },173.0,{ok},{ },12.0,,,
+2019-10-10 01:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-6.5,{unackedAlarm},{ },-14.5,,,,{ok},{ },165.2,{ok},{ },11.1,,,
+2019-10-10 02:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },178.8,{ok},{ },16.5,,,
+2019-10-10 02:00:04,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-10 02:10:00,{unackedAlarm},{ },8.0,{ok},{ },23.0,{unackedAlarm},{ },21.0,,,,{ok},{ },166.1,{ok},{ },10.5,,,
+2019-10-10 02:20:00,{unackedAlarm},{ },31.5,{ok},{ },45.0,{unackedAlarm},{ },45.0,,,,{ok},{ },159.8,{ok},{ },11.1,,,
+2019-10-10 02:30:00,{unackedAlarm},{ },42.5,{ok},{ },58.0,{unackedAlarm},{ },46.0,,,,{ok},{ },159.3,{ok},{ },12.5,,,
+2019-10-10 02:30:10,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-10 02:40:00,{unackedAlarm},{ },-8.0,{ok},{ },9.5,{unackedAlarm},{ },3.5,,,,{ok},{ },191.0,{ok},{ },9.7,,,
+2019-10-10 02:50:00,{unackedAlarm},{ },3.5,{ok},{ },-4.5,{unackedAlarm},{ },-7.0,,,,{ok},{ },178.3,{ok},{ },12.7,,,
+2019-10-10 03:00:00,{unackedAlarm},{ },-1.0,{ok},{ },-8.5,{unackedAlarm},{ },-13.5,,,,{ok},{ },167.1,{ok},{ },16.9,,,
+2019-10-10 03:10:00,{unackedAlarm},{ },-5.0,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },173.9,{ok},{ },10.3,,,
+2019-10-10 03:20:00,{unackedAlarm},{ },-6.5,{ok},{ },-11.0,{unackedAlarm},{ },-17.0,,,,{ok},{ },161.2,{ok},{ },18.3,,,
+2019-10-10 03:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },177.4,{ok},{ },9.3,,,
+2019-10-10 03:40:00,{unackedAlarm},{ },-1.5,{ok},{ },-8.0,{unackedAlarm},{ },-14.0,,,,{ok},{ },182.7,{ok},{ },15.7,,,
+2019-10-10 03:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },189.1,{ok},{ },11.0,,,
+2019-10-10 04:00:00,{unackedAlarm},{ },-5.0,{ok},{ },-10.0,{unackedAlarm},{ },-17.0,,,,{ok},{ },170.0,{ok},{ },16.9,,,
+2019-10-10 04:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.5,{unackedAlarm},{ },-23.0,,,,{ok},{ },173.9,{ok},{ },9.7,,,
+2019-10-10 04:20:00,{unackedAlarm},{ },-3.5,{ok},{ },-12.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },171.0,{ok},{ },10.0,,,
+2019-10-10 04:30:00,{unackedAlarm},{ },-8.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },156.9,{ok},{ },19.2,,,
+2019-10-10 04:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-15.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },162.7,{ok},{ },11.5,,,
+2019-10-10 04:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-10.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },174.4,{ok},{ },12.1,,,
+2019-10-10 05:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-16.5,{unackedAlarm},{ },-23.5,,,,{ok},{ },175.9,{ok},{ },9.2,,,
+2019-10-10 05:10:00,{unackedAlarm},{ },-4.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },168.1,{ok},{ },16.1,,,
+2019-10-10 05:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },192.0,{ok},{ },10.3,,,
+2019-10-10 05:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },177.4,{ok},{ },12.6,,,
+2019-10-10 05:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-10.5,{unackedAlarm},{ },-17.5,,,,{ok},{ },179.8,{ok},{ },10.8,,,
+2019-10-10 05:50:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },186.6,{ok},{ },10.5,,,
+2019-10-10 06:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-6.5,{unackedAlarm},{ },-14.0,,,,{ok},{ },173.9,{ok},{ },17.9,,,
+2019-10-10 06:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },197.9,{ok},{ },12.1,,,
+2019-10-10 06:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-7.0,{unackedAlarm},{ },-15.5,,,,{ok},{ },186.6,{ok},{ },13.1,,,
+2019-10-10 06:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },193.0,{ok},{ },12.1,,,
+2019-10-10 06:40:00,{unackedAlarm},{ },-8.5,{ok},{ },-10.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },181.8,{ok},{ },11.6,,,
+2019-10-10 06:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },178.8,{ok},{ },14.9,,,
+2019-10-10 07:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },193.5,{ok},{ },11.0,,,
+2019-10-10 07:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-7.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },182.2,{ok},{ },17.4,,,
+2019-10-10 07:20:00,{unackedAlarm},{ },-3.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },226.2,{ok},{ },8.9,,,
+2019-10-10 07:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-6.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },191.5,{ok},{ },15.7,,,
+2019-10-10 07:40:00,{unackedAlarm},{ },-8.0,{ok},{ },-17.0,{unackedAlarm},{ },-24.0,,,,{ok},{ },195.9,{ok},{ },11.3,,,
+2019-10-10 07:50:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },201.8,{ok},{ },12.0,,,
+2019-10-10 08:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-6.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },191.0,{ok},{ },11.5,,,
+2019-10-10 08:00:06,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-10 08:10:00,{unackedAlarm},{ },8.5,{ok},{ },24.0,{unackedAlarm},{ },21.0,,,,{ok},{ },186.6,{ok},{ },12.6,,,
+2019-10-10 08:20:00,{unackedAlarm},{ },30.5,{ok},{ },45.5,{unackedAlarm},{ },45.5,,,,{ok},{ },187.1,{ok},{ },11.5,,,
+2019-10-10 08:30:00,{unackedAlarm},{ },42.5,{ok},{ },58.0,{unackedAlarm},{ },46.0,,,,{ok},{ },187.1,{ok},{ },14.4,,,
+2019-10-10 08:30:12,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-10 08:40:00,{unackedAlarm},{ },-3.0,{ok},{ },10.0,{unackedAlarm},{ },4.0,,,,{ok},{ },229.6,{ok},{ },11.5,,,
+2019-10-10 08:50:00,{unackedAlarm},{ },-18.5,{ok},{ },-4.0,{unackedAlarm},{ },-7.0,,,,{ok},{ },214.5,{ok},{ },10.8,,,
+2019-10-10 09:00:00,{unackedAlarm},{ },-0.5,{ok},{ },-6.5,{unackedAlarm},{ },-12.0,,,,{ok},{ },217.9,{ok},{ },14.2,,,
+2019-10-10 09:10:00,{unackedAlarm},{ },-11.5,{ok},{ },-9.5,{unackedAlarm},{ },-15.5,,,,{ok},{ },199.3,{ok},{ },17.6,,,
+2019-10-10 09:20:00,{unackedAlarm},{ },-4.5,{ok},{ },-10.0,{unackedAlarm},{ },-17.0,,,,{ok},{ },212.0,{ok},{ },11.6,,,
+2019-10-10 09:30:00,{unackedAlarm},{ },-5.0,{ok},{ },-10.0,{unackedAlarm},{ },-16.0,,,,{ok},{ },206.2,{ok},{ },15.4,,,
+2019-10-10 09:40:00,{unackedAlarm},{ },-4.5,{ok},{ },-11.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },215.4,{ok},{ },13.1,,,
+2019-10-10 09:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-22.5,,,,{ok},{ },201.3,{ok},{ },12.8,,,
+2019-10-10 10:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },208.1,{ok},{ },12.2,,,
+2019-10-10 10:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-9.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },180.3,{ok},{ },10.3,,,
+2019-10-10 10:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },190.5,{ok},{ },14.6,,,
+2019-10-10 10:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },195.4,{ok},{ },12.4,,,
+2019-10-10 10:40:00,{unackedAlarm},{ },-3.5,{ok},{ },-6.5,{unackedAlarm},{ },-12.0,,,,{ok},{ },173.9,{ok},{ },25.4,,,
+2019-10-10 10:50:00,{unackedAlarm},{ },-3.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },214.0,{ok},{ },13.0,,,
+2019-10-10 11:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },192.0,{ok},{ },14.7,,,
+2019-10-10 11:10:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },197.4,{ok},{ },13.8,,,
+2019-10-10 11:20:00,{unackedAlarm},{ },-3.5,{ok},{ },-11.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },219.3,{ok},{ },15.4,,,
+2019-10-10 11:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-16.0,{unackedAlarm},{ },-23.5,,,,{ok},{ },210.6,{ok},{ },10.6,,,
+2019-10-10 11:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },213.5,{ok},{ },11.5,,,
+2019-10-10 11:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },220.3,{ok},{ },11.5,,,
+2019-10-10 12:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-10.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },210.6,{ok},{ },8.2,,,
+2019-10-10 12:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },214.0,{ok},{ },13.0,,,
+2019-10-10 12:20:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },201.8,{ok},{ },13.8,,,
+2019-10-10 12:30:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },206.7,{ok},{ },11.4,,,
+2019-10-10 12:40:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },206.7,{ok},{ },11.7,,,
+2019-10-10 12:50:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.5,{unackedAlarm},{ },-23.0,,,,{ok},{ },212.5,{ok},{ },12.2,,,
+2019-10-10 13:00:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },207.6,{ok},{ },11.0,,,
+2019-10-10 13:10:00,{unackedAlarm},{ },-7.0,{ok},{ },-7.0,{unackedAlarm},{ },-16.5,,,,{ok},{ },186.1,{ok},{ },9.4,,,
+2019-10-10 13:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },224.7,{ok},{ },14.7,,,
+2019-10-10 13:30:00,{unackedAlarm},{ },-8.5,{ok},{ },-16.0,{unackedAlarm},{ },-23.5,,,,{ok},{ },207.6,{ok},{ },8.7,,,
+2019-10-10 13:40:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },201.8,{ok},{ },15.2,,,
+2019-10-10 13:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-15.0,{unackedAlarm},{ },-21.5,,,,{ok},{ },198.8,{ok},{ },12.6,,,
+2019-10-10 14:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-7.0,{unackedAlarm},{ },-13.5,,,,{ok},{ },176.4,{ok},{ },24.3,,,
+2019-10-10 14:00:08,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-10 14:10:00,{unackedAlarm},{ },14.5,{ok},{ },22.5,{unackedAlarm},{ },20.0,,,,{ok},{ },191.0,{ok},{ },9.7,,,
+2019-10-10 14:20:00,{unackedAlarm},{ },37.0,{ok},{ },43.5,{unackedAlarm},{ },45.0,,,,{ok},{ },187.6,{ok},{ },17.5,,,
+2019-10-10 14:30:00,{unackedAlarm},{ },47.5,{ok},{ },55.0,{unackedAlarm},{ },47.0,,,,{ok},{ },192.0,{ok},{ },11.5,,,
+2019-10-10 14:30:14,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-10 14:40:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },8.5,{unackedAlarm},{ },1.5,,,,{ok},{ },214.0,{ok},{ },9.2,,,
+2019-10-10 14:50:00,{unackedAlarm},{ },-15.0,{ok},{ },-3.0,{unackedAlarm},{ },-6.0,,,,{ok},{ },203.2,{ok},{ },14.7,,,
+2019-10-10 15:00:00,{unackedAlarm},{ },-6.0,{ok},{ },-8.5,{unackedAlarm},{ },-13.5,,,,{ok},{ },195.9,{ok},{ },12.1,,,
+2019-10-10 15:10:00,{unackedAlarm},{ },-5.5,{ok},{ },-8.0,{unackedAlarm},{ },-14.0,,,,{ok},{ },200.3,{ok},{ },16.0,,,
+2019-10-10 15:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },193.0,{ok},{ },9.8,,,
+2019-10-10 15:30:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },194.0,{ok},{ },13.2,,,
+2019-10-10 15:40:00,{unackedAlarm},{ },-6.0,{ok},{ },-11.0,{unackedAlarm},{ },-17.0,,,,{ok},{ },205.2,{ok},{ },13.9,,,
+2019-10-10 15:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },221.8,{ok},{ },11.0,,,
+2019-10-10 16:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },198.4,{ok},{ },14.3,,,
+2019-10-10 16:10:00,{unackedAlarm},{ },-9.0,{ok},{ },-16.5,{unackedAlarm},{ },-23.5,,,,{ok},{ },192.0,{ok},{ },10.9,,,
+2019-10-10 16:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },182.2,{ok},{ },16.3,,,
+2019-10-10 16:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },191.5,{ok},{ },15.7,,,
+2019-10-10 16:40:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },192.0,{ok},{ },15.3,,,
+2019-10-10 16:50:00,{unackedAlarm},{ },-3.5,{ok},{ },-10.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },203.2,{ok},{ },16.3,,,
+2019-10-10 17:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-15.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },196.9,{ok},{ },15.4,,,
+2019-10-10 17:10:00,{unackedAlarm},{ },-2.5,{ok},{ },-11.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },196.9,{ok},{ },14.1,,,
+2019-10-10 17:20:00,{unackedAlarm},{ },-3.5,{ok},{ },-11.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },204.7,{ok},{ },12.0,,,
+2019-10-10 17:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },197.4,{ok},{ },15.3,,,
+2019-10-10 17:40:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },214.0,{ok},{ },10.4,,,
+2019-10-10 17:50:00,{unackedAlarm},{ },-4.5,{ok},{ },-12.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },203.7,{ok},{ },13.6,,,
+2019-10-10 18:00:00,{unackedAlarm},{ },-2.5,{ok},{ },-11.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },210.6,{ok},{ },14.8,,,
+2019-10-10 18:10:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },204.7,{ok},{ },15.7,,,
+2019-10-10 18:20:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.5,{unackedAlarm},{ },-23.0,,,,{ok},{ },198.8,{ok},{ },10.3,,,
+2019-10-10 18:30:00,{unackedAlarm},{ },-5.0,{ok},{ },-11.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },194.0,{ok},{ },13.8,,,
+2019-10-10 18:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },198.4,{ok},{ },14.6,,,
+2019-10-10 18:50:00,{unackedAlarm},{ },-3.5,{ok},{ },-10.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },246.7,{ok},{ },13.5,,,
+2019-10-10 19:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-15.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },222.3,{ok},{ },8.9,,,
+2019-10-10 19:10:00,{unackedAlarm},{ },-4.5,{ok},{ },-10.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },231.6,{ok},{ },16.0,,,
+2019-10-10 19:20:00,{unackedAlarm},{ },-4.0,{ok},{ },-10.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },256.9,{ok},{ },13.5,,,
+2019-10-10 19:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },243.3,{ok},{ },11.3,,,
+2019-10-10 19:40:00,{unackedAlarm},{ },-6.0,{ok},{ },-6.5,{unackedAlarm},{ },-15.5,,,,{ok},{ },226.7,{ok},{ },14.6,,,
+2019-10-10 19:50:00,{unackedAlarm},{ },-3.0,{ok},{ },-11.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },245.2,{ok},{ },11.6,,,
+2019-10-10 20:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },225.7,{ok},{ },11.5,,,
+2019-10-10 20:00:04,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-10 20:10:00,{unackedAlarm},{ },13.0,{ok},{ },22.0,{unackedAlarm},{ },21.0,,,,{ok},{ },223.3,{ok},{ },12.4,,,
+2019-10-10 20:20:00,{unackedAlarm},{ },36.0,{ok},{ },43.5,{unackedAlarm},{ },45.0,,,,{ok},{ },209.1,{ok},{ },17.5,,,
+2019-10-10 20:30:00,{unackedAlarm},{ },45.5,{ok},{ },57.0,{unackedAlarm},{ },46.5,,,,{ok},{ },218.4,{ok},{ },12.8,,,
+2019-10-10 20:30:06,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-10 20:40:00,{unackedAlarm},{ },-15.0,{ok},{ },10.5,{unackedAlarm},{ },3.5,,,,{ok},{ },247.2,{ok},{ },13.6,,,
+2019-10-10 20:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-3.0,{unackedAlarm},{ },-5.5,,,,{ok},{ },231.1,{ok},{ },13.8,,,
+2019-10-10 21:00:00,{unackedAlarm},{ },-19.5,{ok},{ },-6.5,{unackedAlarm},{ },-12.0,,,,{ok},{ },237.4,{ok},{ },10.4,,,
+2019-10-10 21:10:00,{unackedAlarm},{ },-5.5,{ok},{ },-9.5,{unackedAlarm},{ },-15.5,,,,{ok},{ },223.7,{ok},{ },13.9,,,
+2019-10-10 21:20:00,{unackedAlarm},{ },-6.0,{ok},{ },-9.5,{unackedAlarm},{ },-16.5,,,,{ok},{ },222.3,{ok},{ },12.7,,,
+2019-10-10 21:30:00,{unackedAlarm},{ },-2.5,{ok},{ },-8.5,{unackedAlarm},{ },-16.5,,,,{ok},{ },249.6,{ok},{ },12.5,,,
+2019-10-10 21:40:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },242.8,{ok},{ },9.8,,,
+2019-10-10 21:50:00,{unackedAlarm},{ },-4.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },228.6,{ok},{ },14.1,,,
+2019-10-10 22:00:00,{unackedAlarm},{ },-3.5,{ok},{ },-11.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },231.6,{ok},{ },14.6,,,
+2019-10-10 22:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },215.4,{ok},{ },9.6,,,
+2019-10-10 22:20:00,{unackedAlarm},{ },-3.0,{ok},{ },-10.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },214.5,{ok},{ },13.7,,,
+2019-10-10 22:30:00,{unackedAlarm},{ },-4.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },227.2,{ok},{ },11.6,,,
+2019-10-10 22:40:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },211.0,{ok},{ },11.0,,,
+2019-10-10 22:50:00,{unackedAlarm},{ },-4.5,{ok},{ },-11.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },246.2,{ok},{ },14.1,,,
+2019-10-10 23:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-21.5,,,,{ok},{ },233.0,{ok},{ },11.7,,,
+2019-10-10 23:10:00,{unackedAlarm},{ },-4.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },227.6,{ok},{ },14.9,,,
+2019-10-10 23:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },244.2,{ok},{ },13.0,,,
+2019-10-10 23:30:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },226.7,{ok},{ },15.8,,,
+2019-10-10 23:40:00,{unackedAlarm},{ },-3.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },224.7,{ok},{ },15.2,,,
+2019-10-10 23:50:00,{unackedAlarm},{ },-4.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },220.8,{ok},{ },13.2,,,
+2019-10-11 00:00:00,{unackedAlarm},{ },-4.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },217.9,{ok},{ },14.9,,,
+2019-10-11 00:10:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },213.5,{ok},{ },13.3,,,
+2019-10-11 00:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },226.7,{ok},{ },15.7,,,
+2019-10-11 00:30:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },219.3,{ok},{ },12.6,,,
+2019-10-11 00:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },222.3,{ok},{ },12.6,,,
+2019-10-11 00:50:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },221.8,{ok},{ },13.9,,,
+2019-10-11 01:00:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },212.5,{ok},{ },10.2,,,
+2019-10-11 01:10:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },220.8,{ok},{ },14.7,,,
+2019-10-11 01:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },241.8,{ok},{ },12.7,,,
+2019-10-11 01:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },217.9,{ok},{ },11.9,,,
+2019-10-11 01:40:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },220.8,{ok},{ },15.2,,,
+2019-10-11 01:50:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },212.5,{ok},{ },14.1,,,
+2019-10-11 02:00:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },217.9,{ok},{ },13.9,,,
+2019-10-11 02:00:06,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-11 02:10:00,{unackedAlarm},{ },13.5,{ok},{ },23.0,{unackedAlarm},{ },20.5,,,,{ok},{ },210.1,{ok},{ },10.2,,,
+2019-10-11 02:20:00,{unackedAlarm},{ },37.0,{ok},{ },45.0,{unackedAlarm},{ },45.5,,,,{ok},{ },212.0,{ok},{ },13.8,,,
+2019-10-11 02:30:00,{unackedAlarm},{ },48.0,{ok},{ },58.0,{unackedAlarm},{ },46.0,,,,{ok},{ },210.1,{ok},{ },10.6,,,
+2019-10-11 02:30:18,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-11 02:40:00,{unackedAlarm},{ },-19.0,{ok},{ },13.0,{unackedAlarm},{ },4.0,,,,{ok},{ },219.3,{ok},{ },16.8,,,
+2019-10-11 02:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-5.0,{unackedAlarm},{ },-8.5,,,,{ok},{ },220.8,{ok},{ },11.7,,,
+2019-10-11 03:00:00,{unackedAlarm},{ },-11.0,{ok},{ },-4.5,{unackedAlarm},{ },-8.0,,,,{ok},{ },203.2,{ok},{ },14.4,,,
+2019-10-11 03:10:00,{unackedAlarm},{ },-10.5,{ok},{ },-8.0,{unackedAlarm},{ },-14.0,,,,{ok},{ },215.0,{ok},{ },14.6,,,
+2019-10-11 03:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },204.7,{ok},{ },9.8,,,
+2019-10-11 03:30:00,{unackedAlarm},{ },-3.0,{ok},{ },-9.5,{unackedAlarm},{ },-17.0,,,,{ok},{ },229.6,{ok},{ },12.7,,,
+2019-10-11 03:40:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },211.0,{ok},{ },10.0,,,
+2019-10-11 03:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },220.3,{ok},{ },14.7,,,
+2019-10-11 04:00:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },214.5,{ok},{ },13.5,,,
+2019-10-11 04:10:00,{unackedAlarm},{ },-7.0,{ok},{ },-11.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },195.4,{ok},{ },12.1,,,
+2019-10-11 04:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },214.5,{ok},{ },14.7,,,
+2019-10-11 04:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },203.2,{ok},{ },14.4,,,
+2019-10-11 04:40:00,{unackedAlarm},{ },-8.0,{ok},{ },-16.5,{unackedAlarm},{ },-23.5,,,,{ok},{ },186.6,{ok},{ },10.5,,,
+2019-10-11 04:50:01,{unackedAlarm},{ },-0.0,{ok},{ },-9.0,{unackedAlarm},{ },-16.0,,,,{ok},{ },213.5,{ok},{ },11.5,,,
+2019-10-11 05:00:01,{unackedAlarm},{ },-8.5,{ok},{ },-16.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },189.1,{ok},{ },11.1,,,
+2019-10-11 05:10:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },187.6,{ok},{ },13.6,,,
+2019-10-11 05:20:00,{unackedAlarm},{ },-6.5,{ok},{ },-11.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },194.0,{ok},{ },12.1,,,
+2019-10-11 05:30:01,{unackedAlarm},{ },-5.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },197.4,{ok},{ },12.8,,,
+2019-10-11 05:40:00,{unackedAlarm},{ },-7.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },181.3,{ok},{ },14.2,,,
+2019-10-11 05:50:00,{unackedAlarm},{ },-8.5,{ok},{ },-16.5,{unackedAlarm},{ },-23.5,,,,{ok},{ },179.8,{ok},{ },12.5,,,
+2019-10-11 06:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },207.6,{ok},{ },11.5,,,
+2019-10-11 06:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-6.0,{unackedAlarm},{ },-14.5,,,,{ok},{ },184.7,{ok},{ },12.0,,,
+2019-10-11 06:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },206.7,{ok},{ },11.5,,,
+2019-10-11 06:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-6.0,{unackedAlarm},{ },-14.5,,,,{ok},{ },188.1,{ok},{ },12.6,,,
+2019-10-11 06:40:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },201.3,{ok},{ },12.8,,,
+2019-10-11 06:50:00,{unackedAlarm},{ },-9.5,{ok},{ },-16.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },191.0,{ok},{ },13.9,,,
+2019-10-11 07:00:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },188.6,{ok},{ },16.6,,,
+2019-10-11 07:10:00,{unackedAlarm},{ },-9.5,{ok},{ },-16.5,{unackedAlarm},{ },-22.5,,,,{ok},{ },201.8,{ok},{ },12.4,,,
+2019-10-11 07:20:00,{unackedAlarm},{ },-4.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },229.1,{ok},{ },12.2,,,
+2019-10-11 07:30:00,{unackedAlarm},{ },-8.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },198.8,{ok},{ },15.5,,,
+2019-10-11 07:40:00,{unackedAlarm},{ },-2.5,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },241.3,{ok},{ },13.5,,,
+2019-10-11 07:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },231.1,{ok},{ },9.3,,,
+2019-10-11 08:00:00,{unackedAlarm},{ },-4.5,{ok},{ },-11.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },218.9,{ok},{ },15.5,,,
+2019-10-11 08:00:07,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-11 08:10:00,{unackedAlarm},{ },15.0,{ok},{ },23.0,{unackedAlarm},{ },20.0,,,,{ok},{ },224.2,{ok},{ },12.7,,,
+2019-10-11 08:20:00,{unackedAlarm},{ },38.5,{ok},{ },45.0,{unackedAlarm},{ },45.0,,,,{ok},{ },197.4,{ok},{ },14.4,,,
+2019-10-11 08:30:00,{unackedAlarm},{ },49.5,{ok},{ },57.5,{unackedAlarm},{ },47.0,,,,{ok},{ },211.5,{ok},{ },12.4,,,
+2019-10-11 08:30:10,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-11 08:40:00,{unackedAlarm},{ },-22.5,{ok},{ },10.0,{unackedAlarm},{ },2.5,,,,{ok},{ },233.5,{ok},{ },12.0,,,
+2019-10-11 08:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-4.0,{unackedAlarm},{ },-7.0,,,,{ok},{ },238.4,{ok},{ },10.3,,,
+2019-10-11 09:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-8.5,{unackedAlarm},{ },-13.0,,,,{ok},{ },214.0,{ok},{ },12.7,,,
+2019-10-11 09:10:00,{unackedAlarm},{ },-5.0,{ok},{ },-7.0,{unackedAlarm},{ },-14.0,,,,{ok},{ },236.4,{ok},{ },12.5,,,
+2019-10-11 09:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },214.0,{ok},{ },12.8,,,
+2019-10-11 09:30:00,{unackedAlarm},{ },-5.0,{ok},{ },-9.5,{unackedAlarm},{ },-17.5,,,,{ok},{ },238.9,{ok},{ },12.6,,,
+2019-10-11 09:40:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },238.9,{ok},{ },9.7,,,
+2019-10-11 09:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },225.7,{ok},{ },14.3,,,
+2019-10-11 10:00:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },237.9,{ok},{ },10.0,,,
+2019-10-11 10:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },211.0,{ok},{ },13.2,,,
+2019-10-11 10:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },216.4,{ok},{ },13.1,,,
+2019-10-11 10:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },221.8,{ok},{ },14.3,,,
+2019-10-11 10:40:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },222.8,{ok},{ },13.5,,,
+2019-10-11 10:50:00,{unackedAlarm},{ },-5.0,{ok},{ },-10.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },248.2,{ok},{ },14.6,,,
+2019-10-11 11:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },218.9,{ok},{ },13.5,,,
+2019-10-11 11:10:00,{unackedAlarm},{ },-5.0,{ok},{ },-11.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },227.2,{ok},{ },15.0,,,
+2019-10-11 11:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-11.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },247.2,{ok},{ },14.1,,,
+2019-10-11 11:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },247.7,{ok},{ },13.7,,,
+2019-10-11 11:40:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },245.7,{ok},{ },13.3,,,
+2019-10-11 11:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },244.7,{ok},{ },12.0,,,
+2019-10-11 12:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },235.5,{ok},{ },10.5,,,
+2019-10-11 12:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },228.6,{ok},{ },16.6,,,
+2019-10-11 12:20:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },233.0,{ok},{ },14.4,,,
+2019-10-11 12:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },223.3,{ok},{ },13.7,,,
+2019-10-11 12:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },236.4,{ok},{ },8.8,,,
+2019-10-11 12:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },228.1,{ok},{ },15.9,,,
+2019-10-11 13:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-15.5,{unackedAlarm},{ },-23.0,,,,{ok},{ },234.5,{ok},{ },11.4,,,
+2019-10-11 13:10:00,{unackedAlarm},{ },-5.0,{ok},{ },-11.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },230.6,{ok},{ },15.2,,,
+2019-10-11 13:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },249.1,{ok},{ },13.5,,,
+2019-10-11 13:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },246.7,{ok},{ },12.2,,,
+2019-10-11 13:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-6.0,{unackedAlarm},{ },-14.5,,,,{ok},{ },212.5,{ok},{ },15.2,,,
+2019-10-11 13:50:00,{unackedAlarm},{ },-6.0,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },225.7,{ok},{ },12.6,,,
+2019-10-11 14:00:00,{unackedAlarm},{ },-5.5,{ok},{ },-6.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },200.8,{ok},{ },17.4,,,
+2019-10-11 14:00:07,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-11 14:10:00,{unackedAlarm},{ },16.5,{ok},{ },23.5,{unackedAlarm},{ },20.5,,,,{ok},{ },203.7,{ok},{ },14.3,,,
+2019-10-11 14:20:00,{unackedAlarm},{ },38.5,{ok},{ },44.5,{unackedAlarm},{ },45.0,,,,{ok},{ },211.5,{ok},{ },12.4,,,
+2019-10-11 14:30:00,{unackedAlarm},{ },49.0,{ok},{ },57.0,{unackedAlarm},{ },48.5,,,,{ok},{ },223.3,{ok},{ },9.7,,,
+2019-10-11 14:30:13,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-11 14:40:00,{unackedAlarm},{ },1.5,{ok},{ },14.5,{unackedAlarm},{ },5.5,,,,{ok},{ },230.6,{ok},{ },16.8,,,
+2019-10-11 14:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-5.0,{unackedAlarm},{ },-8.5,,,,{ok},{ },207.1,{ok},{ },9.9,,,
+2019-10-11 15:00:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-7.0,{unackedAlarm},{ },-13.5,,,,{ok},{ },214.0,{ok},{ },10.9,,,
+2019-10-11 15:10:00,{unackedAlarm},{ },-8.0,{ok},{ },-9.5,{unackedAlarm},{ },-16.0,,,,{ok},{ },201.8,{ok},{ },12.1,,,
+2019-10-11 15:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-9.0,{unackedAlarm},{ },-16.5,,,,{ok},{ },200.3,{ok},{ },13.9,,,
+2019-10-11 15:30:00,{unackedAlarm},{ },-5.0,{ok},{ },-11.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },204.7,{ok},{ },14.8,,,
+2019-10-11 15:40:00,{unackedAlarm},{ },-5.0,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },203.7,{ok},{ },14.4,,,
+2019-10-11 15:50:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },199.8,{ok},{ },13.8,,,
+2019-10-11 16:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },203.2,{ok},{ },13.5,,,
+2019-10-11 16:10:00,{unackedAlarm},{ },-6.0,{ok},{ },-6.0,{unackedAlarm},{ },-14.0,,,,{ok},{ },184.7,{ok},{ },16.1,,,
+2019-10-11 16:20:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },215.4,{ok},{ },11.0,,,
+2019-10-11 16:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },201.8,{ok},{ },16.5,,,
+2019-10-11 16:40:00,{unackedAlarm},{ },-1.5,{ok},{ },-10.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },231.1,{ok},{ },13.2,,,
+2019-10-11 16:50:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },229.6,{ok},{ },12.7,,,
+2019-10-11 17:00:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },226.2,{ok},{ },11.6,,,
+2019-10-11 17:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },230.6,{ok},{ },10.6,,,
+2019-10-11 17:20:00,{unackedAlarm},{ },-4.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },236.9,{ok},{ },15.9,,,
+2019-10-11 17:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },233.5,{ok},{ },11.3,,,
+2019-10-11 17:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-9.0,{unackedAlarm},{ },-17.5,,,,{ok},{ },229.6,{ok},{ },11.4,,,
+2019-10-11 17:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },221.8,{ok},{ },11.0,,,
+2019-10-11 18:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-12.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },223.3,{ok},{ },12.4,,,
+2019-10-11 18:10:00,{unackedAlarm},{ },-8.0,{ok},{ },-8.5,{unackedAlarm},{ },-16.5,,,,{ok},{ },203.2,{ok},{ },13.8,,,
+2019-10-11 18:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-11.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },221.8,{ok},{ },12.6,,,
+2019-10-11 18:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },219.3,{ok},{ },10.0,,,
+2019-10-11 18:40:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },215.0,{ok},{ },11.9,,,
+2019-10-11 18:50:00,{unackedAlarm},{ },-6.0,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },223.3,{ok},{ },12.1,,,
+2019-10-11 19:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-6.5,{unackedAlarm},{ },-15.5,,,,{ok},{ },194.0,{ok},{ },10.9,,,
+2019-10-11 19:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },219.8,{ok},{ },13.1,,,
+2019-10-11 19:20:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },220.8,{ok},{ },13.2,,,
+2019-10-11 19:30:00,{unackedAlarm},{ },-8.5,{ok},{ },-15.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },207.6,{ok},{ },17.7,,,
+2019-10-11 19:40:00,{unackedAlarm},{ },-5.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },216.4,{ok},{ },13.3,,,
+2019-10-11 19:50:00,{unackedAlarm},{ },-8.0,{ok},{ },-16.5,{unackedAlarm},{ },-23.0,,,,{ok},{ },212.0,{ok},{ },8.7,,,
+2019-10-11 20:00:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },211.5,{ok},{ },12.8,,,
+2019-10-11 20:00:04,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-11 20:10:00,{unackedAlarm},{ },13.5,{ok},{ },23.0,{unackedAlarm},{ },20.5,,,,{ok},{ },206.7,{ok},{ },10.8,,,
+2019-10-11 20:20:00,{unackedAlarm},{ },37.5,{ok},{ },44.5,{unackedAlarm},{ },45.0,,,,{ok},{ },209.6,{ok},{ },11.1,,,
+2019-10-11 20:30:00,{unackedAlarm},{ },47.0,{ok},{ },57.5,{unackedAlarm},{ },48.0,,,,{ok},{ },200.3,{ok},{ },11.9,,,
+2019-10-11 20:30:16,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-11 20:40:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },13.5,{unackedAlarm},{ },4.5,,,,{ok},{ },218.9,{ok},{ },14.8,,,
+2019-10-11 20:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-3.5,{unackedAlarm},{ },-6.0,,,,{ok},{ },225.2,{ok},{ },12.1,,,
+2019-10-11 21:00:00,{unackedAlarm},{ },-9.0,{ok},{ },-9.0,{unackedAlarm},{ },-14.0,,,,{ok},{ },203.2,{ok},{ },15.4,,,
+2019-10-11 21:10:00,{unackedAlarm},{ },-3.0,{ok},{ },-8.0,{unackedAlarm},{ },-13.5,,,,{ok},{ },219.8,{ok},{ },12.2,,,
+2019-10-11 21:20:00,{unackedAlarm},{ },-25.5,{ok},{ },-6.5,{unackedAlarm},{ },-13.5,,,,{ok},{ },206.2,{ok},{ },17.0,,,
+2019-10-11 21:30:00,{unackedAlarm},{ },-5.0,{ok},{ },-10.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },221.8,{ok},{ },11.6,,,
+2019-10-11 21:40:00,{unackedAlarm},{ },-4.5,{ok},{ },-10.0,{unackedAlarm},{ },-16.5,,,,{ok},{ },213.5,{ok},{ },17.5,,,
+2019-10-11 21:50:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },221.3,{ok},{ },11.3,,,
+2019-10-11 22:00:00,{unackedAlarm},{ },-5.0,{ok},{ },-9.5,{unackedAlarm},{ },-15.5,,,,{ok},{ },215.0,{ok},{ },16.3,,,
+2019-10-11 22:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },215.9,{ok},{ },9.8,,,
+2019-10-11 22:20:00,{unackedAlarm},{ },-3.0,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },210.6,{ok},{ },11.6,,,
+2019-10-11 22:30:00,{unackedAlarm},{ },-8.0,{ok},{ },-16.0,{unackedAlarm},{ },-23.5,,,,{ok},{ },206.7,{ok},{ },10.4,,,
+2019-10-11 22:40:00,{unackedAlarm},{ },-4.5,{ok},{ },-12.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },212.0,{ok},{ },10.6,,,
+2019-10-11 22:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },223.3,{ok},{ },12.2,,,
+2019-10-11 23:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-16.5,{unackedAlarm},{ },-23.5,,,,{ok},{ },216.9,{ok},{ },9.2,,,
+2019-10-11 23:10:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },194.9,{ok},{ },15.7,,,
+2019-10-11 23:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },217.9,{ok},{ },10.2,,,
+2019-10-11 23:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },194.4,{ok},{ },16.3,,,
+2019-10-11 23:40:00,{unackedAlarm},{ },-8.5,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },195.9,{ok},{ },11.9,,,
+2019-10-11 23:50:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },199.3,{ok},{ },15.8,,,
+2019-10-12 00:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },197.4,{ok},{ },14.9,,,
+2019-10-12 00:10:00,{unackedAlarm},{ },-8.0,{ok},{ },-16.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },194.0,{ok},{ },12.1,,,
+2019-10-12 00:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },192.0,{ok},{ },14.7,,,
+2019-10-12 00:30:00,{unackedAlarm},{ },-8.0,{ok},{ },-16.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },191.5,{ok},{ },12.4,,,
+2019-10-12 00:40:00,{unackedAlarm},{ },-8.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },190.1,{ok},{ },12.4,,,
+2019-10-12 00:50:00,{unackedAlarm},{ },-6.5,{ok},{ },-11.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },194.0,{ok},{ },14.1,,,
+2019-10-12 01:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-15.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },192.5,{ok},{ },12.7,,,
+2019-10-12 01:10:00,{unackedAlarm},{ },-8.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },192.0,{ok},{ },10.4,,,
+2019-10-12 01:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },189.1,{ok},{ },15.8,,,
+2019-10-12 01:30:00,{unackedAlarm},{ },-8.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },196.4,{ok},{ },11.6,,,
+2019-10-12 01:40:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },192.0,{ok},{ },13.7,,,
+2019-10-12 01:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },196.4,{ok},{ },14.9,,,
+2019-10-12 02:00:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },189.1,{ok},{ },13.2,,,
+2019-10-12 02:00:05,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-12 02:10:00,{unackedAlarm},{ },16.0,{ok},{ },25.5,{unackedAlarm},{ },22.0,,,,{ok},{ },173.5,{ok},{ },11.9,,,
+2019-10-12 02:20:00,{unackedAlarm},{ },39.0,{ok},{ },46.0,{unackedAlarm},{ },46.5,,,,{ok},{ },177.4,{ok},{ },15.0,,,
+2019-10-12 02:30:00,{unackedAlarm},{ },50.0,{ok},{ },59.5,{unackedAlarm},{ },44.5,,,,{ok},{ },175.9,{ok},{ },15.0,,,
+2019-10-12 02:30:12,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-12 02:40:00,{unackedAlarm},{ },16.5,{ok},{ },10.5,{unackedAlarm},{ },2.0,,,,{ok},{ },205.2,{ok},{ },10.9,,,
+2019-10-12 02:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-5.0,{unackedAlarm},{ },-8.0,,,,{ok},{ },188.1,{ok},{ },12.1,,,
+2019-10-12 03:00:00,{unackedAlarm},{ },-27.5,{ok},{ },-5.5,{unackedAlarm},{ },-10.5,,,,{ok},{ },188.1,{ok},{ },13.8,,,
+2019-10-12 03:10:00,{unackedAlarm},{ },-10.0,{ok},{ },-10.5,{unackedAlarm},{ },-16.5,,,,{ok},{ },189.1,{ok},{ },11.5,,,
+2019-10-12 03:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-10.0,{unackedAlarm},{ },-16.5,,,,{ok},{ },183.2,{ok},{ },13.8,,,
+2019-10-12 03:30:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },199.8,{ok},{ },10.6,,,
+2019-10-12 03:40:00,{unackedAlarm},{ },-3.0,{ok},{ },-11.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },208.1,{ok},{ },10.6,,,
+2019-10-12 03:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-15.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },191.0,{ok},{ },9.1,,,
+2019-10-12 04:00:00,{unackedAlarm},{ },-4.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },189.1,{ok},{ },13.7,,,
+2019-10-12 04:10:00,{unackedAlarm},{ },-8.5,{ok},{ },-12.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },178.3,{ok},{ },10.5,,,
+2019-10-12 04:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },175.9,{ok},{ },14.3,,,
+2019-10-12 04:30:00,{unackedAlarm},{ },-8.5,{ok},{ },-17.0,{unackedAlarm},{ },-24.0,,,,{ok},{ },184.2,{ok},{ },8.7,,,
+2019-10-12 04:40:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },178.8,{ok},{ },17.7,,,
+2019-10-12 04:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-22.5,,,,{ok},{ },198.4,{ok},{ },10.8,,,
+2019-10-12 05:00:00,{unackedAlarm},{ },-3.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },180.3,{ok},{ },13.2,,,
+2019-10-12 05:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },187.6,{ok},{ },11.3,,,
+2019-10-12 05:20:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },204.2,{ok},{ },11.0,,,
+2019-10-12 05:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-8.0,{unackedAlarm},{ },-15.5,,,,{ok},{ },183.2,{ok},{ },12.0,,,
+2019-10-12 05:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },186.1,{ok},{ },14.1,,,
+2019-10-12 05:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-21.5,,,,{ok},{ },191.0,{ok},{ },13.8,,,
+2019-10-12 06:00:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },198.4,{ok},{ },11.4,,,
+2019-10-12 06:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },181.3,{ok},{ },12.0,,,
+2019-10-12 06:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-6.0,{unackedAlarm},{ },-14.0,,,,{ok},{ },175.9,{ok},{ },13.6,,,
+2019-10-12 06:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },190.5,{ok},{ },13.8,,,
+2019-10-12 06:40:00,{unackedAlarm},{ },-9.5,{ok},{ },-16.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },191.0,{ok},{ },10.0,,,
+2019-10-12 06:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },193.0,{ok},{ },13.7,,,
+2019-10-12 07:00:00,{unackedAlarm},{ },-9.5,{ok},{ },-9.5,{unackedAlarm},{ },-17.5,,,,{ok},{ },177.8,{ok},{ },14.1,,,
+2019-10-12 07:10:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },187.6,{ok},{ },15.5,,,
+2019-10-12 07:20:00,{unackedAlarm},{ },-9.5,{ok},{ },-17.5,{unackedAlarm},{ },-24.5,,,,{ok},{ },201.8,{ok},{ },11.5,,,
+2019-10-12 07:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },202.3,{ok},{ },11.0,,,
+2019-10-12 07:40:01,{unackedAlarm},{ },-7.5,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },185.2,{ok},{ },10.0,,,
+2019-10-12 07:50:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },188.6,{ok},{ },14.6,,,
+2019-10-12 08:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },193.0,{ok},{ },14.1,,,
+2019-10-12 08:00:07,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-12 08:10:00,{unackedAlarm},{ },11.5,{ok},{ },22.0,{unackedAlarm},{ },20.0,,,,{ok},{ },174.9,{ok},{ },7.2,,,
+2019-10-12 08:20:00,{unackedAlarm},{ },36.5,{ok},{ },43.5,{unackedAlarm},{ },44.5,,,,{ok},{ },182.7,{ok},{ },10.6,,,
+2019-10-12 08:30:00,{unackedAlarm},{ },48.5,{ok},{ },56.5,{unackedAlarm},{ },49.5,,,,{ok},{ },174.9,{ok},{ },14.6,,,
+2019-10-12 08:30:14,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-12 08:40:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },10.0,{unackedAlarm},{ },3.0,,,,{ok},{ },208.1,{ok},{ },10.9,,,
+2019-10-12 08:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-5.5,{unackedAlarm},{ },-9.0,,,,{ok},{ },180.3,{ok},{ },17.1,,,
+2019-10-12 09:00:00,{unackedAlarm},{ },-3.0,{ok},{ },-9.0,{unackedAlarm},{ },-14.0,,,,{ok},{ },206.7,{ok},{ },8.9,,,
+2019-10-12 09:10:00,{unackedAlarm},{ },-4.5,{ok},{ },-11.0,{unackedAlarm},{ },-16.5,,,,{ok},{ },180.3,{ok},{ },15.5,,,
+2019-10-12 09:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },208.6,{ok},{ },10.5,,,
+2019-10-12 09:30:00,{unackedAlarm},{ },-2.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },209.1,{ok},{ },13.1,,,
+2019-10-12 09:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },209.6,{ok},{ },8.8,,,
+2019-10-12 09:50:00,{unackedAlarm},{ },-6.5,{ok},{ },-12.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },209.6,{ok},{ },11.9,,,
+2019-10-12 10:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },197.4,{ok},{ },12.0,,,
+2019-10-12 10:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },204.7,{ok},{ },9.3,,,
+2019-10-12 10:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },184.7,{ok},{ },16.0,,,
+2019-10-12 10:30:00,{unackedAlarm},{ },-9.0,{ok},{ },-16.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },203.2,{ok},{ },13.1,,,
+2019-10-12 10:40:00,{unackedAlarm},{ },-4.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },191.5,{ok},{ },17.1,,,
+2019-10-12 10:50:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },217.9,{ok},{ },12.7,,,
+2019-10-12 11:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-15.5,{unackedAlarm},{ },-23.5,,,,{ok},{ },209.6,{ok},{ },11.3,,,
+2019-10-12 11:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },197.4,{ok},{ },15.7,,,
+2019-10-12 11:20:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },222.8,{ok},{ },13.3,,,
+2019-10-12 11:30:00,{unackedAlarm},{ },-9.0,{ok},{ },-15.5,{unackedAlarm},{ },-22.5,,,,{ok},{ },209.1,{ok},{ },9.9,,,
+2019-10-12 11:40:00,{unackedAlarm},{ },-8.5,{ok},{ },-15.5,{unackedAlarm},{ },-22.5,,,,{ok},{ },211.0,{ok},{ },11.7,,,
+2019-10-12 11:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },200.8,{ok},{ },14.1,,,
+2019-10-12 12:00:00,{unackedAlarm},{ },-9.5,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },210.1,{ok},{ },8.8,,,
+2019-10-12 12:10:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },199.8,{ok},{ },12.0,,,
+2019-10-12 12:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-21.5,,,,{ok},{ },215.0,{ok},{ },11.1,,,
+2019-10-12 12:30:00,{unackedAlarm},{ },-3.5,{ok},{ },-9.5,{unackedAlarm},{ },-16.0,,,,{ok},{ },196.9,{ok},{ },14.6,,,
+2019-10-12 12:40:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },239.4,{ok},{ },11.7,,,
+2019-10-12 12:50:00,{unackedAlarm},{ },-9.0,{ok},{ },-15.0,,,,,,,{ok},{ },220.3,{ok},{ },13.7,,,
+2019-10-12 12:50:01,,,,,,,{unackedAlarm},{ },-22.5,,,,,,,,,,,,
+2019-10-12 13:00:00,{unackedAlarm},{ },-4.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },220.3,{ok},{ },14.7,,,
+2019-10-12 13:10:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },218.9,{ok},{ },12.0,,,
+2019-10-12 13:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },241.8,{ok},{ },12.5,,,
+2019-10-12 13:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },235.5,{ok},{ },10.0,,,
+2019-10-12 13:40:00,{unackedAlarm},{ },-4.5,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },223.3,{ok},{ },15.8,,,
+2019-10-12 13:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },241.8,{ok},{ },11.6,,,
+2019-10-12 14:00:00,{unackedAlarm},{ },-9.0,{ok},{ },-15.5,{unackedAlarm},{ },-23.0,,,,{ok},{ },224.2,{ok},{ },9.4,,,
+2019-10-12 14:00:09,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-12 14:10:00,{unackedAlarm},{ },16.0,{ok},{ },24.0,{unackedAlarm},{ },21.5,,,,{ok},{ },221.3,{ok},{ },13.5,,,
+2019-10-12 14:20:00,{unackedAlarm},{ },38.0,{ok},{ },45.0,{unackedAlarm},{ },45.0,,,,{ok},{ },224.7,{ok},{ },13.3,,,
+2019-10-12 14:30:00,{unackedAlarm},{ },48.5,{ok},{ },57.5,{unackedAlarm},{ },50.0,,,,{ok},{ },214.5,{ok},{ },12.8,,,
+2019-10-12 14:30:10,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-12 14:40:00,{unackedAlarm},{ },6.5,{ok},{ },9.5,{unackedAlarm},{ },3.5,,,,{ok},{ },245.7,{ok},{ },12.5,,,
+2019-10-12 14:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-5.0,{unackedAlarm},{ },-7.0,,,,{ok},{ },240.3,{ok},{ },10.0,,,
+2019-10-12 15:00:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-8.0,{unackedAlarm},{ },-13.0,,,,{ok},{ },234.0,{ok},{ },10.8,,,
+2019-10-12 15:10:00,{unackedAlarm},{ },-5.5,{ok},{ },-10.5,{unackedAlarm},{ },-16.0,,,,{ok},{ },226.7,{ok},{ },12.8,,,
+2019-10-12 15:20:00,{unackedAlarm},{ },-2.0,{ok},{ },-9.5,{unackedAlarm},{ },-16.0,,,,{ok},{ },228.1,{ok},{ },14.4,,,
+2019-10-12 15:30:00,{unackedAlarm},{ },-3.5,{ok},{ },-11.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },240.3,{ok},{ },10.9,,,
+2019-10-12 15:40:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },226.7,{ok},{ },14.6,,,
+2019-10-12 15:50:00,{unackedAlarm},{ },-4.5,{ok},{ },-11.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },227.6,{ok},{ },13.9,,,
+2019-10-12 16:00:00,{unackedAlarm},{ },-4.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },226.7,{ok},{ },15.2,,,
+2019-10-12 16:10:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },221.3,{ok},{ },12.6,,,
+2019-10-12 16:20:00,{unackedAlarm},{ },-6.0,{ok},{ },-6.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },219.3,{ok},{ },9.6,,,
+2019-10-12 16:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },219.3,{ok},{ },12.5,,,
+2019-10-12 16:40:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },215.0,{ok},{ },10.5,,,
+2019-10-12 16:50:00,{unackedAlarm},{ },-2.5,{ok},{ },-10.5,{unackedAlarm},{ },-17.5,,,,{ok},{ },235.5,{ok},{ },15.2,,,
+2019-10-12 17:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },230.6,{ok},{ },9.7,,,
+2019-10-12 17:10:00,{unackedAlarm},{ },-3.5,{ok},{ },-11.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },217.9,{ok},{ },14.9,,,
+2019-10-12 17:20:00,{unackedAlarm},{ },-4.0,{ok},{ },-11.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },249.1,{ok},{ },13.2,,,
+2019-10-12 17:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },237.4,{ok},{ },10.2,,,
+2019-10-12 17:40:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },225.2,{ok},{ },15.3,,,
+2019-10-12 17:50:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },227.2,{ok},{ },14.2,,,
+2019-10-12 18:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },219.8,{ok},{ },13.8,,,
+2019-10-12 18:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },221.3,{ok},{ },13.9,,,
+2019-10-12 18:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },223.7,{ok},{ },14.2,,,
+2019-10-12 18:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },223.3,{ok},{ },13.7,,,
+2019-10-12 18:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },223.3,{ok},{ },13.8,,,
+2019-10-12 18:50:01,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },231.1,{ok},{ },15.7,,,
+2019-10-12 19:00:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },229.1,{ok},{ },13.5,,,
+2019-10-12 19:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },225.7,{ok},{ },13.8,,,
+2019-10-12 19:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },240.8,{ok},{ },10.2,,,
+2019-10-12 19:30:00,{unackedAlarm},{ },-5.5,{ok},{ },-9.5,{unackedAlarm},{ },-16.0,,,,{ok},{ },198.8,{ok},{ },15.7,,,
+2019-10-12 19:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },221.3,{ok},{ },12.8,,,
+2019-10-12 19:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-6.5,{unackedAlarm},{ },-15.5,,,,{ok},{ },204.2,{ok},{ },11.3,,,
+2019-10-12 20:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },219.8,{ok},{ },12.8,,,
+2019-10-12 20:00:06,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-12 20:10:00,{unackedAlarm},{ },14.0,{ok},{ },22.5,{unackedAlarm},{ },20.0,,,,{ok},{ },194.0,{ok},{ },11.9,,,
+2019-10-12 20:20:00,{unackedAlarm},{ },37.5,{ok},{ },44.5,{unackedAlarm},{ },44.0,,,,{ok},{ },214.5,{ok},{ },11.5,,,
+2019-10-12 20:30:00,{unackedAlarm},{ },49.0,{ok},{ },57.5,{unackedAlarm},{ },49.5,,,,{ok},{ },194.0,{ok},{ },10.4,,,
+2019-10-12 20:30:13,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-12 20:40:00,{unackedAlarm},{ },11.0,{ok},{ },11.0,{unackedAlarm},{ },2.0,,,,{ok},{ },220.3,{ok},{ },13.8,,,
+2019-10-12 20:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-5.5,{unackedAlarm},{ },-8.0,,,,{ok},{ },208.1,{ok},{ },13.0,,,
+2019-10-12 21:00:00,{unackedAlarm},{ },-9.5,{ok},{ },-9.0,{unackedAlarm},{ },-13.5,,,,{ok},{ },214.0,{ok},{ },11.6,,,
+2019-10-12 21:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-8.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },195.4,{ok},{ },16.3,,,
+2019-10-12 21:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },195.9,{ok},{ },10.9,,,
+2019-10-12 21:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },193.0,{ok},{ },12.8,,,
+2019-10-12 21:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },193.5,{ok},{ },17.0,,,
+2019-10-12 21:50:01,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },215.0,{ok},{ },12.4,,,
+2019-10-12 22:00:00,{unackedAlarm},{ },-3.0,{ok},{ },-8.0,{unackedAlarm},{ },-15.5,,,,{ok},{ },197.4,{ok},{ },15.4,,,
+2019-10-12 22:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },194.4,{ok},{ },13.7,,,
+2019-10-12 22:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },190.5,{ok},{ },15.9,,,
+2019-10-12 22:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },208.6,{ok},{ },9.6,,,
+2019-10-12 22:40:00,{unackedAlarm},{ },-6.0,{ok},{ },-8.0,{unackedAlarm},{ },-15.5,,,,{ok},{ },189.6,{ok},{ },12.2,,,
+2019-10-12 22:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },213.5,{ok},{ },13.7,,,
+2019-10-12 23:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },215.9,{ok},{ },9.6,,,
+2019-10-12 23:10:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },213.5,{ok},{ },12.1,,,
+2019-10-12 23:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },218.4,{ok},{ },12.8,,,
+2019-10-12 23:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },224.2,{ok},{ },14.3,,,
+2019-10-12 23:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-9.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },194.0,{ok},{ },13.3,,,
+2019-10-12 23:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },205.7,{ok},{ },11.0,,,
+2019-10-13 00:00:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },188.6,{ok},{ },12.8,,,
+2019-10-13 00:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-21.5,,,,{ok},{ },190.5,{ok},{ },11.6,,,
+2019-10-13 00:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },178.8,{ok},{ },16.6,,,
+2019-10-13 00:30:00,{unackedAlarm},{ },-8.0,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },181.8,{ok},{ },10.5,,,
+2019-10-13 00:40:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },185.2,{ok},{ },13.3,,,
+2019-10-13 00:50:01,{unackedAlarm},{ },-7.5,{ok},{ },-10.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },190.5,{ok},{ },11.3,,,
+2019-10-13 01:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },173.5,{ok},{ },15.4,,,
+2019-10-13 01:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-21.5,,,,{ok},{ },188.1,{ok},{ },11.4,,,
+2019-10-13 01:20:00,{unackedAlarm},{ },-6.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },189.6,{ok},{ },14.6,,,
+2019-10-13 01:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },191.0,{ok},{ },12.7,,,
+2019-10-13 01:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-9.5,{unackedAlarm},{ },-16.0,,,,{ok},{ },186.6,{ok},{ },12.5,,,
+2019-10-13 01:50:00,{unackedAlarm},{ },-6.5,{ok},{ },-7.0,{unackedAlarm},{ },-14.0,,,,{ok},{ },178.3,{ok},{ },15.5,,,
+2019-10-13 02:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },185.2,{ok},{ },11.7,,,
+2019-10-13 02:00:08,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-13 02:10:00,{unackedAlarm},{ },12.5,{ok},{ },23.0,{unackedAlarm},{ },20.5,,,,{ok},{ },180.8,{ok},{ },12.5,,,
+2019-10-13 02:20:00,{unackedAlarm},{ },38.0,{ok},{ },45.0,{unackedAlarm},{ },45.5,,,,{ok},{ },172.5,{ok},{ },13.6,,,
+2019-10-13 02:30:00,{unackedAlarm},{ },50.0,{ok},{ },58.5,{unackedAlarm},{ },47.0,,,,{ok},{ },174.4,{ok},{ },13.2,,,
+2019-10-13 02:30:15,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-13 02:33:15,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 02:40:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },9.5,{unackedAlarm},{ },2.5,,,,{ok},{ },189.6,{ok},{ },15.0,,,
+2019-10-13 02:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-6.0,{unackedAlarm},{ },-8.5,,,,{ok},{ },185.7,{ok},{ },9.2,,,
+2019-10-13 02:50:21,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 02:50:26,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 02:55:06,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 02:55:41,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 03:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-7.0,{unackedAlarm},{ },-11.5,,,,{ok},{ },187.1,{ok},{ },14.6,,,
+2019-10-13 03:10:00,{unackedAlarm},{ },-7.0,{ok},{ },-12.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },184.7,{ok},{ },9.2,,,
+2019-10-13 03:20:00,{unackedAlarm},{ },-4.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },171.5,{ok},{ },14.7,,,
+2019-10-13 03:30:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },190.5,{ok},{ },11.7,,,
+2019-10-13 03:35:38,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 03:40:00,{unackedAlarm},{ },-7.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },169.5,{ok},{ },15.4,,,
+2019-10-13 03:41:14,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 03:50:01,{unackedAlarm},{ },-5.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },188.1,{ok},{ },13.5,,,
+2019-10-13 03:55:49,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 04:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-14.5,{unackedAlarm},{ },-22.5,,,,{ok},{ },167.6,{ok},{ },16.6,,,
+2019-10-13 04:01:50,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 04:10:00,{unackedAlarm},{ },-4.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },180.3,{ok},{ },11.5,,,
+2019-10-13 04:12:40,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 04:19:01,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 04:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-8.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },165.2,{ok},{ },12.7,,,
+2019-10-13 04:30:00,{unackedAlarm},{ },-4.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },173.5,{ok},{ },15.2,,,
+2019-10-13 04:38:52,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 04:40:00,{unackedAlarm},{ },-8.0,{ok},{ },-16.0,{unackedAlarm},{ },-23.5,,,,{ok},{ },174.9,{ok},{ },9.7,,,
+2019-10-13 04:45:32,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 04:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },194.9,{ok},{ },9.6,,,
+2019-10-13 04:52:48,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 04:59:28,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 05:00:00,{unackedAlarm},{ },-6.0,{ok},{ },-6.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },169.1,{ok},{ },15.7,,,
+2019-10-13 05:09:29,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 05:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-16.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },179.8,{ok},{ },9.4,,,
+2019-10-13 05:16:29,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 05:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },194.9,{ok},{ },11.0,,,
+2019-10-13 05:23:09,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 05:29:55,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 05:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-7.0,{unackedAlarm},{ },-16.0,,,,{ok},{ },182.7,{ok},{ },14.8,,,
+2019-10-13 05:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },184.2,{ok},{ },14.3,,,
+2019-10-13 05:43:06,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 05:50:00,{unackedAlarm},{ },-6.5,{ok},{ },-8.0,{unackedAlarm},{ },-15.5,,,,{ok},{ },178.8,{ok},{ },11.0,,,
+2019-10-13 05:50:06,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 05:55:11,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 06:00:00,{unackedAlarm},{ },-9.0,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },179.8,{ok},{ },9.8,,,
+2019-10-13 06:02:22,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 06:09:12,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 06:10:00,{unackedAlarm},{ },-8.0,{ok},{ },-16.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },195.4,{ok},{ },11.7,,,
+2019-10-13 06:16:33,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 06:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },193.5,{ok},{ },14.7,,,
+2019-10-13 06:24:53,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 06:30:00,{unackedAlarm},{ },-8.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },183.2,{ok},{ },13.3,,,
+2019-10-13 06:31:53,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 06:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },206.7,{ok},{ },15.0,,,
+2019-10-13 06:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },223.7,{ok},{ },9.1,,,
+2019-10-13 06:52:15,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 06:58:51,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 07:00:00,{unackedAlarm},{ },-5.5,{ok},{ },-9.5,{unackedAlarm},{ },-16.5,,,,{ok},{ },201.8,{ok},{ },11.6,,,
+2019-10-13 07:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },228.1,{ok},{ },11.9,,,
+2019-10-13 07:20:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },219.8,{ok},{ },12.1,,,
+2019-10-13 07:20:02,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 07:26:32,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 07:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },214.0,{ok},{ },15.5,,,
+2019-10-13 07:40:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },218.9,{ok},{ },14.8,,,
+2019-10-13 07:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },211.5,{ok},{ },12.7,,,
+2019-10-13 08:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },218.4,{ok},{ },14.2,,,
+2019-10-13 08:00:04,,,,,,,,,,{ok},{ },ON,,,,,,,{ok},{ },OFF
+2019-10-13 08:10:00,{unackedAlarm},{ },11.5,{ok},{ },22.0,{unackedAlarm},{ },20.0,,,,{ok},{ },188.6,{ok},{ },16.0,,,
+2019-10-13 08:20:00,{unackedAlarm},{ },36.0,{ok},{ },43.0,{unackedAlarm},{ },43.5,,,,{ok},{ },203.2,{ok},{ },12.5,,,
+2019-10-13 08:30:00,{unackedAlarm},{ },48.5,{ok},{ },55.5,{unackedAlarm},{ },52.0,,,,{ok},{ },206.2,{ok},{ },10.3,,,
+2019-10-13 08:30:06,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-13 08:33:06,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 08:40:00,{unackedAlarm},{ },14.5,{ok},{ },11.5,{unackedAlarm},{ },3.0,,,,{ok},{ },205.7,{ok},{ },13.7,,,
+2019-10-13 08:50:00,{unackedAlarm},{ },-28.0,{ok},{ },-5.0,{unackedAlarm},{ },-6.5,,,,{ok},{ },195.9,{ok},{ },15.5,,,
+2019-10-13 08:53:12,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 08:53:22,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 09:00:00,{unackedAlarm},{ },-14.5,{ok},{ },-7.5,{unackedAlarm},{ },-11.5,,,,{ok},{ },195.4,{ok},{ },11.6,,,
+2019-10-13 09:01:33,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 09:05:23,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 09:07:03,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 09:09:18,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 09:10:00,{unackedAlarm},{ },-9.5,{ok},{ },-8.5,{unackedAlarm},{ },-12.5,,,,{ok},{ },185.7,{ok},{ },17.2,,,
+2019-10-13 09:20:00,{unackedAlarm},{ },-4.5,{ok},{ },-10.5,{unackedAlarm},{ },-16.5,,,,{ok},{ },185.7,{ok},{ },15.0,,,
+2019-10-13 09:30:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.0,{unackedAlarm},{ },-17.5,,,,{ok},{ },203.7,{ok},{ },13.5,,,
+2019-10-13 09:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },187.1,{ok},{ },14.2,,,
+2019-10-13 09:50:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },194.0,{ok},{ },10.6,,,
+2019-10-13 09:54:11,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 10:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-9.0,{unackedAlarm},{ },-16.5,,,,{ok},{ },177.4,{ok},{ },11.5,,,
+2019-10-13 10:00:26,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 10:10:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },169.1,{ok},{ },12.5,,,
+2019-10-13 10:12:17,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 10:19:17,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 10:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-6.5,{unackedAlarm},{ },-13.5,,,,{ok},{ },160.8,{ok},{ },17.7,,,
+2019-10-13 10:30:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },178.3,{ok},{ },16.0,,,
+2019-10-13 10:38:14,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 10:40:00,{unackedAlarm},{ },-8.5,{ok},{ },-16.5,{unackedAlarm},{ },-23.0,,,,{ok},{ },170.0,{ok},{ },10.3,,,
+2019-10-13 10:44:59,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 10:50:00,{unackedAlarm},{ },-4.5,{ok},{ },-12.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },191.0,{ok},{ },12.8,,,
+2019-10-13 10:54:50,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 11:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },180.3,{ok},{ },18.0,,,
+2019-10-13 11:01:25,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 11:09:15,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 11:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },175.9,{ok},{ },13.2,,,
+2019-10-13 11:16:11,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 11:20:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },190.5,{ok},{ },13.3,,,
+2019-10-13 11:26:01,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 11:30:00,{unackedAlarm},{ },-9.0,{ok},{ },-16.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },191.0,{ok},{ },10.6,,,
+2019-10-13 11:33:02,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 11:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },180.3,{ok},{ },12.2,,,
+2019-10-13 11:42:07,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 11:49:38,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 11:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-6.0,{unackedAlarm},{ },-14.5,,,,{ok},{ },167.1,{ok},{ },10.6,,,
+2019-10-13 11:59:43,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 12:00:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.5,{unackedAlarm},{ },-22.5,,,,{ok},{ },189.6,{ok},{ },10.4,,,
+2019-10-13 12:07:09,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 12:10:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },168.1,{ok},{ },12.2,,,
+2019-10-13 12:15:54,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 12:20:00,{unackedAlarm},{ },-8.0,{ok},{ },-14.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },168.6,{ok},{ },14.8,,,
+2019-10-13 12:24:00,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 12:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },171.0,{ok},{ },16.0,,,
+2019-10-13 12:37:10,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 12:40:00,{unackedAlarm},{ },-9.5,{ok},{ },-17.5,{unackedAlarm},{ },-23.5,,,,{ok},{ },172.0,{ok},{ },11.7,,,
+2019-10-13 12:44:41,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 12:49:21,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 12:50:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },172.0,{ok},{ },13.0,,,
+2019-10-13 12:56:52,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 13:00:00,{unackedAlarm},{ },-4.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },178.8,{ok},{ },11.1,,,
+2019-10-13 13:03:07,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 13:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-10.0,{unackedAlarm},{ },-16.5,,,,{ok},{ },164.2,{ok},{ },14.3,,,
+2019-10-13 13:10:52,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 13:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },189.6,{ok},{ },15.0,,,
+2019-10-13 13:27:18,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 13:30:00,{unackedAlarm},{ },-9.5,{ok},{ },-17.5,{unackedAlarm},{ },-24.0,,,,{ok},{ },178.8,{ok},{ },8.8,,,
+2019-10-13 13:34:54,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 13:40:00,{unackedAlarm},{ },-5.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },177.8,{ok},{ },12.2,,,
+2019-10-13 13:42:44,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 13:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-8.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },162.7,{ok},{ },14.6,,,
+2019-10-13 13:50:10,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 14:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },180.3,{ok},{ },11.5,,,
+2019-10-13 14:00:05,,,,,,,,,,{ok},{ },ON,,,,,,,{ok},{ },OFF
+2019-10-13 14:10:00,{unackedAlarm},{ },10.0,{ok},{ },21.5,{unackedAlarm},{ },20.0,,,,{ok},{ },167.6,{ok},{ },11.1,,,
+2019-10-13 14:20:00,{unackedAlarm},{ },35.5,{ok},{ },43.0,{unackedAlarm},{ },43.5,,,,{ok},{ },166.6,{ok},{ },12.4,,,
+2019-10-13 14:30:00,{unackedAlarm},{ },48.5,{ok},{ },56.0,{unackedAlarm},{ },51.0,,,,{ok},{ },164.2,{ok},{ },12.7,,,
+2019-10-13 14:30:07,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-13 14:33:07,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 14:40:00,{unackedAlarm},{ },16.0,{ok},{ },9.0,{unackedAlarm},{ },1.5,,,,{ok},{ },179.8,{ok},{ },11.0,,,
+2019-10-13 14:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-6.0,{unackedAlarm},{ },-8.0,,,,{ok},{ },176.4,{ok},{ },14.4,,,
+2019-10-13 14:54:14,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 14:56:14,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 15:00:00,{unackedAlarm},{ },-8.0,{ok},{ },-9.0,{unackedAlarm},{ },-13.0,,,,{ok},{ },186.6,{ok},{ },11.4,,,
+2019-10-13 15:06:05,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 15:07:30,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 15:10:00,{unackedAlarm},{ },-2.5,{ok},{ },-9.5,{unackedAlarm},{ },-14.0,,,,{ok},{ },187.6,{ok},{ },13.7,,,
+2019-10-13 15:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.0,{unackedAlarm},{ },-17.5,,,,{ok},{ },195.9,{ok},{ },13.3,,,
+2019-10-13 15:30:00,{unackedAlarm},{ },-3.5,{ok},{ },-10.0,{unackedAlarm},{ },-16.5,,,,{ok},{ },216.9,{ok},{ },12.0,,,
+2019-10-13 15:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },193.5,{ok},{ },10.9,,,
+2019-10-13 15:42:37,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 15:48:17,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 15:50:00,{unackedAlarm},{ },-4.5,{ok},{ },-10.5,{unackedAlarm},{ },-17.5,,,,{ok},{ },184.7,{ok},{ },12.4,,,
+2019-10-13 16:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },185.2,{ok},{ },11.7,,,
+2019-10-13 16:03:18,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 16:09:23,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 16:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-5.5,{unackedAlarm},{ },-13.5,,,,{ok},{ },177.4,{ok},{ },14.1,,,
+2019-10-13 16:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },169.5,{ok},{ },15.4,,,
+2019-10-13 16:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-14.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },189.1,{ok},{ },12.4,,,
+2019-10-13 16:36:20,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 16:40:00,{unackedAlarm},{ },-8.0,{ok},{ },-14.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },174.9,{ok},{ },16.5,,,
+2019-10-13 16:43:20,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 16:50:00,{unackedAlarm},{ },-2.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },195.4,{ok},{ },15.9,,,
+2019-10-13 17:00:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },195.9,{ok},{ },12.6,,,
+2019-10-13 17:09:17,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 17:10:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },186.1,{ok},{ },10.2,,,
+2019-10-13 17:15:37,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 17:20:00,{unackedAlarm},{ },-3.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },196.4,{ok},{ },15.5,,,
+2019-10-13 17:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },210.6,{ok},{ },9.9,,,
+2019-10-13 17:31:26,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 17:38:01,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 17:40:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },189.1,{ok},{ },13.3,,,
+2019-10-13 17:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },195.9,{ok},{ },13.1,,,
+2019-10-13 17:56:07,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 18:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-15.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },192.5,{ok},{ },12.1,,,
+2019-10-13 18:03:22,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 18:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },172.0,{ok},{ },13.8,,,
+2019-10-13 18:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },171.5,{ok},{ },15.7,,,
+2019-10-13 18:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },173.9,{ok},{ },14.8,,,
+2019-10-13 18:33:04,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 18:40:00,{unackedAlarm},{ },-8.5,{ok},{ },-9.0,{unackedAlarm},{ },-16.0,,,,{ok},{ },155.9,{ok},{ },10.0,,,
+2019-10-13 18:40:45,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 18:50:00,{unackedAlarm},{ },-8.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },168.1,{ok},{ },13.0,,,
+2019-10-13 18:50:25,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 18:58:06,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 19:00:00,{unackedAlarm},{ },-6.0,{ok},{ },-9.5,{unackedAlarm},{ },-14.5,,,,{ok},{ },146.6,{ok},{ },21.1,,,
+2019-10-13 19:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },167.1,{ok},{ },12.7,,,
+2019-10-13 19:12:06,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 19:19:52,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 19:20:00,{unackedAlarm},{ },-8.0,{ok},{ },-7.0,{unackedAlarm},{ },-14.5,,,,{ok},{ },159.3,{ok},{ },11.7,,,
+2019-10-13 19:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },167.6,{ok},{ },13.6,,,
+2019-10-13 19:35:38,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 19:40:00,{unackedAlarm},{ },-10.5,{ok},{ },-17.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },156.9,{ok},{ },11.1,,,
+2019-10-13 19:43:03,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 19:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-14.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },160.3,{ok},{ },13.9,,,
+2019-10-13 19:55:49,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 20:00:00,{unackedAlarm},{ },-10.0,{ok},{ },-17.5,{unackedAlarm},{ },-23.5,,,,{ok},{ },153.4,{ok},{ },9.7,,,
+2019-10-13 20:00:04,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-13 20:10:00,{unackedAlarm},{ },15.0,{ok},{ },24.5,{unackedAlarm},{ },21.5,,,,{ok},{ },160.8,{ok},{ },10.9,,,
+2019-10-13 20:20:00,{unackedAlarm},{ },38.5,{ok},{ },45.5,{unackedAlarm},{ },46.0,,,,{ok},{ },173.5,{ok},{ },12.4,,,
+2019-10-13 20:30:00,{unackedAlarm},{ },50.0,{ok},{ },58.5,{unackedAlarm},{ },47.5,,,,{ok},{ },173.0,{ok},{ },9.7,,,
+2019-10-13 20:30:11,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-13 20:33:11,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 20:40:00,{unackedAlarm},{ },16.5,{ok},{ },9.5,{unackedAlarm},{ },2.0,,,,{ok},{ },188.1,{ok},{ },9.4,,,
+2019-10-13 20:49:57,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 20:50:00,{unackedAlarm},{ },-31.5,{ok},{ },-6.0,{unackedAlarm},{ },-9.0,,,,{ok},{ },159.8,{ok},{ },10.9,,,
+2019-10-13 20:50:02,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 20:51:02,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 20:51:07,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 20:52:37,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 20:54:03,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 21:00:00,{unackedAlarm},{ },-16.0,{ok},{ },-7.0,{unackedAlarm},{ },-10.5,,,,{ok},{ },157.3,{ok},{ },15.2,,,
+2019-10-13 21:00:38,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 21:00:53,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 21:10:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.0,{unackedAlarm},{ },-17.0,,,,{ok},{ },169.5,{ok},{ },11.6,,,
+2019-10-13 21:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },167.1,{ok},{ },12.0,,,
+2019-10-13 21:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-21.5,,,,{ok},{ },162.2,{ok},{ },10.6,,,
+2019-10-13 21:31:15,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 21:37:10,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 21:40:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },162.7,{ok},{ },8.6,,,
+2019-10-13 21:50:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },166.1,{ok},{ },14.9,,,
+2019-10-13 22:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },175.9,{ok},{ },11.3,,,
+2019-10-13 22:01:31,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 22:07:57,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 22:10:00,{unackedAlarm},{ },-3.0,{ok},{ },-10.0,{unackedAlarm},{ },-16.0,,,,{ok},{ },155.9,{ok},{ },19.0,,,
+2019-10-13 22:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },174.9,{ok},{ },13.3,,,
+2019-10-13 22:23:43,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 22:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-8.5,{unackedAlarm},{ },-16.0,,,,{ok},{ },147.1,{ok},{ },14.4,,,
+2019-10-13 22:30:13,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 22:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },162.2,{ok},{ },13.2,,,
+2019-10-13 22:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },185.7,{ok},{ },11.5,,,
+2019-10-13 22:50:34,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 22:57:35,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 23:00:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },161.2,{ok},{ },13.7,,,
+2019-10-13 23:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },163.7,{ok},{ },14.9,,,
+2019-10-13 23:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },184.7,{ok},{ },14.1,,,
+2019-10-13 23:26:26,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 23:30:00,{unackedAlarm},{ },-9.0,{ok},{ },-16.5,{unackedAlarm},{ },-22.5,,,,{ok},{ },174.4,{ok},{ },10.9,,,
+2019-10-13 23:33:37,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 23:39:27,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-13 23:40:00,{unackedAlarm},{ },-7.5,{ok},{ },-16.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },178.8,{ok},{ },12.0,,,
+2019-10-13 23:46:48,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-13 23:50:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },167.1,{ok},{ },12.0,,,
+2019-10-13 23:53:08,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 00:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-9.5,{unackedAlarm},{ },-16.5,,,,{ok},{ },156.4,{ok},{ },12.4,,,
+2019-10-14 00:00:44,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 00:10:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },161.2,{ok},{ },14.4,,,
+2019-10-14 00:13:30,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 00:20:00,{unackedAlarm},{ },-8.5,{ok},{ },-10.5,{unackedAlarm},{ },-17.0,,,,{ok},{ },159.8,{ok},{ },15.0,,,
+2019-10-14 00:21:20,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 00:27:35,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 00:30:00,{unackedAlarm},{ },-9.0,{ok},{ },-17.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },151.0,{ok},{ },11.0,,,
+2019-10-14 00:35:21,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 00:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-12.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },183.2,{ok},{ },17.0,,,
+2019-10-14 00:47:42,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 00:50:00,{unackedAlarm},{ },-9.5,{ok},{ },-17.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },155.9,{ok},{ },12.5,,,
+2019-10-14 00:54:02,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 01:00:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.0,{unackedAlarm},{ },-17.5,,,,{ok},{ },188.1,{ok},{ },16.9,,,
+2019-10-14 01:08:03,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 01:10:00,{unackedAlarm},{ },-9.5,{ok},{ },-17.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },156.9,{ok},{ },8.8,,,
+2019-10-14 01:13:53,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 01:20:00,{unackedAlarm},{ },-2.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },190.1,{ok},{ },13.0,,,
+2019-10-14 01:23:24,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 01:29:49,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 01:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-6.5,{unackedAlarm},{ },-14.5,,,,{ok},{ },137.3,{ok},{ },15.3,,,
+2019-10-14 01:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-15.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },171.5,{ok},{ },12.5,,,
+2019-10-14 01:40:10,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 01:47:00,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 01:50:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },172.5,{ok},{ },15.9,,,
+2019-10-14 01:59:31,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 02:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-15.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },172.0,{ok},{ },12.6,,,
+2019-10-14 02:00:06,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-14 02:10:00,{unackedAlarm},{ },13.0,{ok},{ },23.5,{unackedAlarm},{ },21.5,,,,{ok},{ },144.2,{ok},{ },21.3,,,
+2019-10-14 02:20:00,{unackedAlarm},{ },37.5,{ok},{ },45.5,{unackedAlarm},{ },46.0,,,,{ok},{ },165.2,{ok},{ },8.7,,,
+2019-10-14 02:30:00,{unackedAlarm},{ },49.5,{ok},{ },59.0,{unackedAlarm},{ },47.0,,,,{ok},{ },163.7,{ok},{ },16.3,,,
+2019-10-14 02:30:08,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-14 02:33:08,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 02:40:00,{unackedAlarm},{ },-1.0,{ok},{ },6.5,{unackedAlarm},{ },1.0,,,,{ok},{ },179.3,{ok},{ },8.7,,,
+2019-10-14 02:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-4.0,{unackedAlarm},{ },-6.0,,,,{ok},{ },141.7,{ok},{ },18.0,,,
+2019-10-14 03:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-10.0,{unackedAlarm},{ },-14.5,,,,{ok},{ },167.1,{ok},{ },11.3,,,
+2019-10-14 03:04:00,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 03:06:15,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 03:10:00,{unackedAlarm},{ },-8.5,{ok},{ },-7.5,{unackedAlarm},{ },-13.5,,,,{ok},{ },178.3,{ok},{ },15.8,,,
+2019-10-14 03:20:00,{unackedAlarm},{ },-6.0,{ok},{ },-11.0,{unackedAlarm},{ },-17.5,,,,{ok},{ },161.7,{ok},{ },12.4,,,
+2019-10-14 03:25:21,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 03:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-12.0,{unackedAlarm},{ },-17.5,,,,{ok},{ },145.1,{ok},{ },13.1,,,
+2019-10-14 03:31:06,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 03:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-12.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },168.6,{ok},{ },11.7,,,
+2019-10-14 03:44:37,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 03:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-10.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },170.5,{ok},{ },8.7,,,
+2019-10-14 03:50:47,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 04:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },152.5,{ok},{ },14.9,,,
+2019-10-14 04:10:00,{unackedAlarm},{ },-8.0,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },147.6,{ok},{ },13.1,,,
+2019-10-14 04:11:09,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 04:18:09,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 04:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },163.2,{ok},{ },13.8,,,
+2019-10-14 04:30:00,{unackedAlarm},{ },-8.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },161.2,{ok},{ },13.7,,,
+2019-10-14 04:32:15,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 04:39:30,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 04:40:00,{unackedAlarm},{ },-8.0,{ok},{ },-5.0,{unackedAlarm},{ },-14.0,,,,{ok},{ },136.8,{ok},{ },18.3,,,
+2019-10-14 04:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.0,{unackedAlarm},{ },-21.5,,,,{ok},{ },164.2,{ok},{ },11.0,,,
+2019-10-14 04:50:51,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 04:57:46,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 05:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },171.5,{ok},{ },15.3,,,
+2019-10-14 05:06:02,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 05:10:00,{unackedAlarm},{ },-10.5,{ok},{ },-16.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },153.4,{ok},{ },11.7,,,
+2019-10-14 05:13:32,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 05:20:00,{unackedAlarm},{ },-8.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },189.1,{ok},{ },12.0,,,
+2019-10-14 05:21:43,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 05:28:53,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 05:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-7.0,{unackedAlarm},{ },-14.5,,,,{ok},{ },142.2,{ok},{ },13.8,,,
+2019-10-14 05:38:49,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 05:40:00,{unackedAlarm},{ },-9.5,{ok},{ },-15.5,{unackedAlarm},{ },-22.5,,,,{ok},{ },166.6,{ok},{ },8.9,,,
+2019-10-14 05:45:09,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 05:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },187.6,{ok},{ },14.9,,,
+2019-10-14 05:57:55,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 06:00:00,{unackedAlarm},{ },-10.5,{ok},{ },-16.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },161.2,{ok},{ },10.4,,,
+2019-10-14 06:03:25,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 06:10:00,{unackedAlarm},{ },-8.0,{ok},{ },-14.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },161.2,{ok},{ },17.5,,,
+2019-10-14 06:15:51,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 06:20:00,{unackedAlarm},{ },-11.0,{ok},{ },-16.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },156.4,{ok},{ },9.9,,,
+2019-10-14 06:23:41,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 06:30:00,{unackedAlarm},{ },-8.5,{ok},{ },-12.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },178.8,{ok},{ },18.7,,,
+2019-10-14 06:36:37,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 06:40:00,{unackedAlarm},{ },-11.0,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },147.6,{ok},{ },9.7,,,
+2019-10-14 06:43:02,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 06:50:00,{unackedAlarm},{ },-8.0,{ok},{ },-12.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },180.8,{ok},{ },15.7,,,
+2019-10-14 06:56:48,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 07:00:00,{unackedAlarm},{ },-11.5,{ok},{ },-17.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },160.3,{ok},{ },10.2,,,
+2019-10-14 07:04:09,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 07:10:00,{unackedAlarm},{ },-9.5,{ok},{ },-13.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },147.1,{ok},{ },15.3,,,
+2019-10-14 07:11:44,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 07:20:00,{unackedAlarm},{ },-10.0,{ok},{ },-8.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },160.8,{ok},{ },13.9,,,
+2019-10-14 07:20:35,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 07:30:00,{unackedAlarm},{ },-9.5,{ok},{ },-14.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },165.2,{ok},{ },14.7,,,
+2019-10-14 07:35:56,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 07:40:00,{unackedAlarm},{ },-11.0,{ok},{ },-15.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },161.7,{ok},{ },13.0,,,
+2019-10-14 07:44:06,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 07:47:11,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 07:50:00,{unackedAlarm},{ },-12.0,{ok},{ },-17.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },153.4,{ok},{ },11.0,,,
+2019-10-14 07:55:22,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 07:58:22,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 08:00:00,{unackedAlarm},{ },-11.0,{ok},{ },-15.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },158.3,{ok},{ },13.6,,,
+2019-10-14 08:00:07,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-14 08:10:00,{unackedAlarm},{ },8.5,{ok},{ },23.0,{unackedAlarm},{ },21.5,,,,{ok},{ },152.9,{ok},{ },13.6,,,
+2019-10-14 08:20:00,{unackedAlarm},{ },33.5,{ok},{ },44.0,{unackedAlarm},{ },45.0,,,,{ok},{ },170.5,{ok},{ },10.3,,,
+2019-10-14 08:30:00,{unackedAlarm},{ },45.5,{ok},{ },57.5,{unackedAlarm},{ },51.5,,,,{ok},{ },147.6,{ok},{ },11.7,,,
+2019-10-14 08:30:04,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-14 08:33:04,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 08:40:00,{unackedAlarm},{ },14.0,{ok},{ },8.0,{unackedAlarm},{ },2.5,,,,{ok},{ },180.3,{ok},{ },13.8,,,
+2019-10-14 08:48:25,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 08:48:30,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 08:50:00,{unackedAlarm},{ },-31.5,{ok},{ },-8.0,{unackedAlarm},{ },-9.0,,,,{ok},{ },159.3,{ok},{ },12.5,{ok},{ },OFF
+2019-10-14 08:50:05,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 08:51:15,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 08:51:35,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 08:52:15,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 08:54:30,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 08:55:55,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 08:59:16,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 08:59:26,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 09:00:00,{unackedAlarm},{ },-20.0,{ok},{ },-6.0,{unackedAlarm},{ },-8.0,,,,{ok},{ },168.1,{ok},{ },9.3,,,
+2019-10-14 09:00:21,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 09:00:46,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 09:01:11,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 09:01:31,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 09:04:56,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 09:10:00,{unackedAlarm},{ },-7.0,{ok},{ },-9.5,{unackedAlarm},{ },-14.5,,,,{ok},{ },159.3,{ok},{ },14.3,,,
+2019-10-14 09:20:00,{unackedAlarm},{ },-6.5,{ok},{ },-11.5,{unackedAlarm},{ },-17.0,,,,{ok},{ },154.4,{ok},{ },14.6,,,
+2019-10-14 09:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-11.0,{unackedAlarm},{ },-17.0,,,,{ok},{ },182.7,{ok},{ },13.9,,,
+2019-10-14 09:38:13,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 09:40:00,{unackedAlarm},{ },-10.0,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },172.0,{ok},{ },12.8,,,
+2019-10-14 09:44:24,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 09:50:00,{unackedAlarm},{ },-9.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },162.7,{ok},{ },17.0,,,
+2019-10-14 09:55:04,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 10:00:00,{unackedAlarm},{ },-11.0,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },167.6,{ok},{ },11.6,,,
+2019-10-14 10:01:45,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 10:10:00,{unackedAlarm},{ },-8.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },155.9,{ok},{ },12.8,,,
+2019-10-14 10:12:25,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 10:18:46,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 10:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-8.5,{unackedAlarm},{ },-14.5,,,,{ok},{ },154.9,{ok},{ },14.1,,,
+2019-10-14 10:25:06,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 10:30:00,{unackedAlarm},{ },-10.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },155.9,{ok},{ },10.3,,,
+2019-10-14 10:32:22,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 10:35:47,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 10:40:00,{unackedAlarm},{ },-9.5,{ok},{ },-15.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },160.3,{ok},{ },13.6,,,
+2019-10-14 10:43:22,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 10:50:00,{unackedAlarm},{ },-8.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },182.7,{ok},{ },10.2,,,
+2019-10-14 10:50:28,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 10:57:48,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 11:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-11.0,{unackedAlarm},{ },-17.5,,,,{ok},{ },168.1,{ok},{ },16.5,,,
+2019-10-14 11:03:18,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 11:10:00,{unackedAlarm},{ },-9.5,{ok},{ },-8.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },174.4,{ok},{ },12.1,,,
+2019-10-14 11:10:34,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 11:20:00,{unackedAlarm},{ },-8.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },196.9,{ok},{ },15.8,,,
+2019-10-14 11:25:45,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 11:30:00,{unackedAlarm},{ },-12.5,{ok},{ },-15.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },185.7,{ok},{ },11.9,,,
+2019-10-14 11:33:00,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 11:40:00,{unackedAlarm},{ },-8.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },186.1,{ok},{ },12.2,,,
+2019-10-14 11:41:36,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 11:49:16,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 11:50:00,{unackedAlarm},{ },-8.5,{ok},{ },-5.5,{unackedAlarm},{ },-13.0,,,,{ok},{ },169.1,{ok},{ },13.5,,,
+2019-10-14 11:58:47,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 12:00:00,{unackedAlarm},{ },-10.0,{ok},{ },-15.0,{unackedAlarm},{ },-21.5,,,,{ok},{ },188.1,{ok},{ },11.0,,,
+2019-10-14 12:06:17,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 12:10:00,{unackedAlarm},{ },-8.0,{ok},{ },-14.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },168.6,{ok},{ },13.1,,,
+2019-10-14 12:11:22,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 12:19:18,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 12:20:00,{unackedAlarm},{ },-8.5,{ok},{ },-6.0,{unackedAlarm},{ },-13.5,,,,{ok},{ },168.6,{ok},{ },14.3,,,
+2019-10-14 12:30:00,{unackedAlarm},{ },-9.5,{ok},{ },-13.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },171.0,{ok},{ },15.2,,,
+2019-10-14 12:40:00,{unackedAlarm},{ },-10.0,{ok},{ },-14.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },166.6,{ok},{ },14.9,,,
+2019-10-14 12:40:14,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 12:48:34,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 12:50:00,{unackedAlarm},{ },-8.5,{ok},{ },-9.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },188.6,{ok},{ },13.2,,,
+2019-10-14 12:53:50,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 13:00:00,{unackedAlarm},{ },-11.0,{ok},{ },-9.0,{unackedAlarm},{ },-17.0,,,,{ok},{ },183.2,{ok},{ },12.8,,,
+2019-10-14 13:01:15,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 13:07:51,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 13:10:00,{unackedAlarm},{ },-10.5,{ok},{ },-16.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },191.5,{ok},{ },11.9,,,
+2019-10-14 13:15:36,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 13:20:00,{unackedAlarm},{ },-8.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },198.8,{ok},{ },12.8,,,
+2019-10-14 13:22:11,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 13:29:12,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 13:30:00,{unackedAlarm},{ },-8.5,{ok},{ },-6.5,{unackedAlarm},{ },-14.0,,,,{ok},{ },193.5,{ok},{ },11.9,,,
+2019-10-14 13:32:57,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 13:40:00,{unackedAlarm},{ },-10.0,{ok},{ },-6.5,{unackedAlarm},{ },-14.5,,,,{ok},{ },187.1,{ok},{ },13.3,,,
+2019-10-14 13:40:13,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 13:50:00,{unackedAlarm},{ },-9.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },203.7,{ok},{ },13.6,,,
+2019-10-14 13:52:08,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 13:59:19,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 14:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-5.5,{unackedAlarm},{ },-13.5,,,,{ok},{ },202.7,{ok},{ },13.9,,,
+2019-10-14 14:00:04,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-14 14:00:09,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 14:10:00,{unackedAlarm},{ },14.0,{ok},{ },25.0,{unackedAlarm},{ },22.5,,,,{ok},{ },203.7,{ok},{ },11.0,,,
+2019-10-14 14:20:00,{unackedAlarm},{ },36.0,{ok},{ },45.5,{unackedAlarm},{ },46.0,,,,{ok},{ },189.6,{ok},{ },15.0,,,
+2019-10-14 14:30:00,{unackedAlarm},{ },48.0,{ok},{ },59.5,{unackedAlarm},{ },51.0,,,,{ok},{ },194.0,{ok},{ },10.4,,,
+2019-10-14 14:30:15,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-14 14:33:16,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 14:40:00,{unackedAlarm},{ },10.0,{ok},{ },13.0,{unackedAlarm},{ },2.5,,,,{ok},{ },205.7,{ok},{ },12.8,,,
+2019-10-14 14:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-3.5,{unackedAlarm},{ },-6.0,,,,{ok},{ },204.7,{ok},{ },14.7,,,
+2019-10-14 14:58:27,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 14:58:32,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 15:00:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-6.0,{unackedAlarm},{ },-11.5,,,,{ok},{ },225.7,{ok},{ },12.7,,,
+2019-10-14 15:00:22,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 15:01:22,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 15:01:27,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 15:04:48,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 15:10:00,{unackedAlarm},{ },-6.0,{ok},{ },-9.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },209.6,{ok},{ },11.7,,,
+2019-10-14 15:20:00,{unackedAlarm},{ },-6.0,{ok},{ },-8.5,{unackedAlarm},{ },-15.5,,,,{ok},{ },229.6,{ok},{ },12.5,,,
+2019-10-14 15:30:00,{unackedAlarm},{ },-8.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },215.4,{ok},{ },8.9,,,
+2019-10-14 15:40:00,{unackedAlarm},{ },-7.5,{ok},{ },-11.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },204.2,{ok},{ },14.7,,,
+2019-10-14 15:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-11.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },213.5,{ok},{ },12.8,,,
+2019-10-14 15:58:16,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 16:00:00,{unackedAlarm},{ },-9.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },189.1,{ok},{ },17.9,,,
+2019-10-14 16:04:31,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 16:10:00,{unackedAlarm},{ },-8.5,{ok},{ },-12.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },197.4,{ok},{ },10.5,,,
+2019-10-14 16:13:22,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 16:19:42,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 16:20:00,{unackedAlarm},{ },-8.5,{ok},{ },-5.5,{unackedAlarm},{ },-14.5,,,,{ok},{ },201.8,{ok},{ },9.9,,,
+2019-10-14 16:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-12.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },201.3,{ok},{ },12.8,,,
+2019-10-14 16:35:43,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 16:40:00,{unackedAlarm},{ },-10.5,{ok},{ },-13.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },195.4,{ok},{ },16.5,,,
+2019-10-14 16:42:23,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 16:50:00,{unackedAlarm},{ },-6.5,{ok},{ },-10.0,{unackedAlarm},{ },-17.0,,,,{ok},{ },213.0,{ok},{ },18.1,,,
+2019-10-14 16:59:39,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 17:00:00,{unackedAlarm},{ },-9.5,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },209.6,{ok},{ },11.9,,,
+2019-10-14 17:06:00,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 17:10:00,{unackedAlarm},{ },-8.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },198.4,{ok},{ },14.3,,,
+2019-10-14 17:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },205.2,{ok},{ },15.7,,,
+2019-10-14 17:30:00,{unackedAlarm},{ },-9.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },215.4,{ok},{ },11.3,,,
+2019-10-14 17:30:51,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 17:37:32,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 17:40:00,{unackedAlarm},{ },-7.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },199.3,{ok},{ },13.1,,,
+2019-10-14 17:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-12.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },204.7,{ok},{ },14.6,,,
+2019-10-14 17:56:08,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 18:00:00,{unackedAlarm},{ },-11.0,{ok},{ },-15.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },194.0,{ok},{ },10.2,,,
+2019-10-14 18:03:24,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 18:10:00,{unackedAlarm},{ },-10.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },198.8,{ok},{ },13.1,,,
+2019-10-14 18:16:44,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 18:20:00,{unackedAlarm},{ },-11.5,{ok},{ },-16.5,{unackedAlarm},{ },-23.0,,,,{ok},{ },199.3,{ok},{ },9.9,,,
+2019-10-14 18:23:55,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 18:30:00,{unackedAlarm},{ },-9.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },198.4,{ok},{ },13.2,,,
+2019-10-14 18:30:40,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 18:37:56,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 18:40:00,{unackedAlarm},{ },-9.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },187.1,{ok},{ },11.7,,,
+2019-10-14 18:41:21,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 18:48:51,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 18:50:00,{unackedAlarm},{ },-8.5,{ok},{ },-8.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },191.5,{ok},{ },13.7,,,
+2019-10-14 19:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },200.3,{ok},{ },13.8,,,
+2019-10-14 19:05:37,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 19:10:00,{unackedAlarm},{ },-11.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },189.1,{ok},{ },8.8,,,
+2019-10-14 19:12:38,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 19:20:00,{unackedAlarm},{ },-8.0,{ok},{ },-11.5,{unackedAlarm},{ },-17.5,,,,{ok},{ },203.2,{ok},{ },17.4,,,
+2019-10-14 19:26:29,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 19:30:00,{unackedAlarm},{ },-11.0,{ok},{ },-16.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },204.2,{ok},{ },11.4,,,
+2019-10-14 19:33:19,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 19:40:00,{unackedAlarm},{ },-9.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },195.4,{ok},{ },13.2,,,
+2019-10-14 19:40:24,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 19:48:05,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 19:50:00,{unackedAlarm},{ },-8.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },187.6,{ok},{ },11.1,,,
+2019-10-14 19:53:25,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 20:00:00,{unackedAlarm},{ },-10.0,{ok},{ },-8.0,{unackedAlarm},{ },-16.0,,,,{ok},{ },193.5,{ok},{ },10.8,,,
+2019-10-14 20:00:06,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-14 20:10:00,{unackedAlarm},{ },16.0,{ok},{ },27.0,{unackedAlarm},{ },24.0,,,,{ok},{ },186.1,{ok},{ },11.5,,,
+2019-10-14 20:20:00,{unackedAlarm},{ },37.5,{ok},{ },48.0,{unackedAlarm},{ },47.5,,,,{ok},{ },191.0,{ok},{ },12.1,,,
+2019-10-14 20:30:00,{unackedAlarm},{ },49.0,{ok},{ },62.0,{unackedAlarm},{ },47.0,,,,{ok},{ },197.4,{ok},{ },12.8,,,
+2019-10-14 20:30:12,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-14 20:33:13,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 20:40:00,{unackedAlarm},{ },15.5,{ok},{ },13.5,{unackedAlarm},{ },2.0,,,,{ok},{ },197.9,{ok},{ },16.3,,,
+2019-10-14 20:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-3.5,{unackedAlarm},{ },-6.5,,,,{ok},{ },209.1,{ok},{ },11.9,,,
+2019-10-14 20:53:14,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 20:53:19,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 20:54:19,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 20:54:34,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 20:54:44,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 20:54:59,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 20:56:14,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 20:57:54,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 21:00:00,{unackedAlarm},{ },-8.0,{ok},{ },-7.0,{unackedAlarm},{ },-12.5,,,,{ok},{ },190.5,{ok},{ },12.8,,,
+2019-10-14 21:01:09,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 21:04:44,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 21:06:44,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 21:10:00,{unackedAlarm},{ },-15.5,{ok},{ },-9.0,{unackedAlarm},{ },-15.5,,,,{ok},{ },182.2,{ok},{ },11.4,,,
+2019-10-14 21:10:55,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 21:20:00,{unackedAlarm},{ },-9.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },161.7,{ok},{ },12.7,,,
+2019-10-14 21:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-9.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },192.0,{ok},{ },16.4,,,
+2019-10-14 21:39:36,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 21:40:00,{unackedAlarm},{ },-9.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },185.2,{ok},{ },10.9,,,
+2019-10-14 21:45:27,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 21:50:00,{unackedAlarm},{ },-5.0,{ok},{ },-10.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },191.0,{ok},{ },14.1,,,
+2019-10-14 21:56:27,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 22:00:00,{unackedAlarm},{ },-10.0,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },174.9,{ok},{ },11.9,,,
+2019-10-14 22:02:58,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 22:10:00,{unackedAlarm},{ },-8.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },168.6,{ok},{ },14.8,,,
+2019-10-14 22:20:00,{unackedAlarm},{ },-9.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },168.6,{ok},{ },13.2,,,
+2019-10-14 22:21:39,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 22:28:44,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 22:30:00,{unackedAlarm},{ },-8.0,{ok},{ },-9.0,{unackedAlarm},{ },-16.5,,,,{ok},{ },166.1,{ok},{ },11.1,,,
+2019-10-14 22:32:59,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 22:40:00,{unackedAlarm},{ },-9.0,{ok},{ },-6.5,{unackedAlarm},{ },-15.5,,,,{ok},{ },157.3,{ok},{ },14.9,,,
+2019-10-14 22:40:25,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 22:50:00,{unackedAlarm},{ },-9.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },188.6,{ok},{ },12.5,,,
+2019-10-14 22:53:01,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 23:00:00,{unackedAlarm},{ },-9.5,{ok},{ },-5.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },167.6,{ok},{ },14.6,,,
+2019-10-14 23:00:06,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 23:10:00,{unackedAlarm},{ },-8.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },172.0,{ok},{ },14.6,,,
+2019-10-14 23:20:00,{unackedAlarm},{ },-9.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },184.7,{ok},{ },13.7,,,
+2019-10-14 23:23:42,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 23:30:00,{unackedAlarm},{ },-11.0,{ok},{ },-8.5,{unackedAlarm},{ },-17.5,,,,{ok},{ },174.4,{ok},{ },12.4,,,
+2019-10-14 23:31:18,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 23:38:03,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-14 23:40:00,{unackedAlarm},{ },-10.5,{ok},{ },-16.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },183.2,{ok},{ },10.9,,,
+2019-10-14 23:45:39,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-14 23:50:00,{unackedAlarm},{ },-8.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },169.1,{ok},{ },15.4,,,
+2019-10-14 23:54:44,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 00:00:00,{unackedAlarm},{ },-11.5,{ok},{ },-12.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },173.9,{ok},{ },11.7,,,
+2019-10-15 00:02:20,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 00:05:20,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 00:10:00,{unackedAlarm},{ },-11.0,{ok},{ },-14.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },161.2,{ok},{ },13.5,,,
+2019-10-15 00:13:05,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 00:20:00,{unackedAlarm},{ },-9.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },162.2,{ok},{ },14.8,,,
+2019-10-15 00:21:56,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 00:30:00,{unackedAlarm},{ },-9.5,{ok},{ },-7.0,{unackedAlarm},{ },-14.5,,,,{ok},{ },161.7,{ok},{ },12.4,,,
+2019-10-15 00:30:21,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 00:37:42,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 00:40:00,{unackedAlarm},{ },-10.5,{ok},{ },-15.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },157.3,{ok},{ },13.6,,,
+2019-10-15 00:46:02,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 00:50:00,{unackedAlarm},{ },-9.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },161.7,{ok},{ },14.6,,,
+2019-10-15 00:52:12,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 01:00:00,{unackedAlarm},{ },-10.5,{ok},{ },-6.5,{unackedAlarm},{ },-14.5,,,,{ok},{ },146.6,{ok},{ },10.8,,,
+2019-10-15 01:00:23,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 01:05:28,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 01:10:00,{unackedAlarm},{ },-11.0,{ok},{ },-14.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },154.9,{ok},{ },15.7,,,
+2019-10-15 01:13:59,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 01:19:49,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 01:20:00,{unackedAlarm},{ },-10.5,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },180.8,{ok},{ },9.6,,,
+2019-10-15 01:27:30,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 01:30:00,{unackedAlarm},{ },-8.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },149.5,{ok},{ },15.2,,,
+2019-10-15 01:36:35,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 01:40:00,{unackedAlarm},{ },-11.5,{ok},{ },-16.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },156.9,{ok},{ },11.1,,,
+2019-10-15 01:45:01,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 01:47:26,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 01:50:00,{unackedAlarm},{ },-13.0,{ok},{ },-17.0,{unackedAlarm},{ },-23.5,,,,{ok},{ },144.6,{ok},{ },10.6,,,
+2019-10-15 01:55:26,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 02:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },171.5,{ok},{ },13.1,,,
+2019-10-15 02:00:06,,,,,,,,,,{ok},{ },ON,,,,,,,{ok},{ },OFF
+2019-10-15 02:10:00,{unackedAlarm},{ },9.0,{ok},{ },22.5,{unackedAlarm},{ },21.0,,,,{ok},{ },161.7,{ok},{ },9.1,,,
+2019-10-15 02:20:00,{unackedAlarm},{ },34.5,{ok},{ },45.0,{unackedAlarm},{ },46.0,,,,{ok},{ },153.4,{ok},{ },14.1,,,
+2019-10-15 02:30:00,{unackedAlarm},{ },47.5,{ok},{ },60.0,{unackedAlarm},{ },51.0,,,,{ok},{ },152.5,{ok},{ },12.1,,,
+2019-10-15 02:30:13,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-15 02:33:13,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 02:40:00,{unackedAlarm},{ },13.5,{ok},{ },12.0,{unackedAlarm},{ },4.5,,,,{ok},{ },194.0,{ok},{ },12.5,,,
+2019-10-15 02:50:00,{unackedAlarm},{ },-22.5,{ok},{ },-6.0,{unackedAlarm},{ },-9.5,,,,{ok},{ },147.6,{ok},{ },11.1,,,
+2019-10-15 02:50:54,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 02:51:04,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 02:54:50,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 02:55:35,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 02:56:35,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 02:57:20,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 02:58:15,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 02:58:20,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 02:59:30,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 03:00:00,{unackedAlarm},{ },-21.5,{ok},{ },-6.0,{unackedAlarm},{ },-11.0,,,,{ok},{ },169.5,{ok},{ },13.8,,,
+2019-10-15 03:03:46,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 03:04:01,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 03:04:51,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 03:10:00,{unackedAlarm},{ },-10.0,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },141.7,{ok},{ },10.2,,,
+2019-10-15 03:10:41,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 03:15:41,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 03:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-8.5,{unackedAlarm},{ },-15.5,,,,{ok},{ },180.3,{ok},{ },17.1,,,
+2019-10-15 03:28:47,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 03:30:00,{unackedAlarm},{ },-10.0,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },158.3,{ok},{ },8.5,,,
+2019-10-15 03:34:17,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 03:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-9.5,{unackedAlarm},{ },-16.0,,,,{ok},{ },188.1,{ok},{ },16.9,,,
+2019-10-15 03:45:38,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 03:50:00,{unackedAlarm},{ },-11.0,{ok},{ },-9.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },142.2,{ok},{ },10.0,,,
+2019-10-15 03:51:03,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 04:00:00,{unackedAlarm},{ },-9.0,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },164.7,{ok},{ },14.1,,,
+2019-10-15 04:02:24,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 04:08:44,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 04:10:00,{unackedAlarm},{ },-8.5,{ok},{ },-7.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },149.0,{ok},{ },14.4,,,
+2019-10-15 04:12:25,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 04:18:50,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 04:20:00,{unackedAlarm},{ },-8.0,{ok},{ },-8.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },188.1,{ok},{ },15.0,,,
+2019-10-15 04:29:46,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 04:30:00,{unackedAlarm},{ },-10.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },155.4,{ok},{ },13.1,,,
+2019-10-15 04:36:21,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 04:40:00,{unackedAlarm},{ },-8.0,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },184.7,{ok},{ },14.4,,,
+2019-10-15 04:49:37,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 04:50:00,{unackedAlarm},{ },-10.5,{ok},{ },-14.0,{unackedAlarm},{ },-21.5,,,,{ok},{ },170.0,{ok},{ },14.1,,,
+2019-10-15 04:56:17,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 05:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },154.9,{ok},{ },12.7,,,
+2019-10-15 05:02:58,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 05:10:00,{unackedAlarm},{ },-10.5,{ok},{ },-9.5,{unackedAlarm},{ },-17.0,,,,{ok},{ },153.9,{ok},{ },18.6,,,
+2019-10-15 05:11:03,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 05:15:33,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 05:20:00,{unackedAlarm},{ },-10.0,{ok},{ },-13.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },167.6,{ok},{ },11.6,,,
+2019-10-15 05:23:34,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 05:28:39,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 05:30:00,{unackedAlarm},{ },-12.0,{ok},{ },-15.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },156.9,{ok},{ },15.2,,,
+2019-10-15 05:36:50,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 05:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-9.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },158.3,{ok},{ },18.1,,,
+2019-10-15 05:46:55,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 05:50:00,{unackedAlarm},{ },-12.5,{ok},{ },-17.0,{unackedAlarm},{ },-23.5,,,,{ok},{ },147.1,{ok},{ },9.1,,,
+2019-10-15 05:54:21,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 06:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },175.9,{ok},{ },15.5,,,
+2019-10-15 06:05:21,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 06:10:00,{unackedAlarm},{ },-12.0,{ok},{ },-9.0,{unackedAlarm},{ },-17.0,,,,{ok},{ },147.1,{ok},{ },8.9,,,
+2019-10-15 06:11:07,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 06:20:00,{unackedAlarm},{ },-9.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },172.0,{ok},{ },15.3,,,
+2019-10-15 06:22:37,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 06:30:00,{unackedAlarm},{ },-11.5,{ok},{ },-6.0,{unackedAlarm},{ },-14.0,,,,{ok},{ },142.7,{ok},{ },12.8,,,
+2019-10-15 06:30:18,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 06:40:00,{unackedAlarm},{ },-8.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },177.4,{ok},{ },16.0,,,
+2019-10-15 06:45:29,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 06:50:00,{unackedAlarm},{ },-13.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },152.5,{ok},{ },11.3,,,
+2019-10-15 06:52:34,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 07:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },177.8,{ok},{ },15.0,,,
+2019-10-15 07:02:35,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 07:10:00,{unackedAlarm},{ },-11.5,{ok},{ },-6.0,{unackedAlarm},{ },-14.5,,,,{ok},{ },140.7,{ok},{ },14.8,,,
+2019-10-15 07:10:20,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 07:20:00,{unackedAlarm},{ },-10.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },170.5,{ok},{ },8.9,,,
+2019-10-15 07:20:06,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 07:25:31,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 07:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-11.5,{unackedAlarm},{ },-17.5,,,,{ok},{ },177.8,{ok},{ },13.3,,,
+2019-10-15 07:33:32,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 07:40:00,{unackedAlarm},{ },-12.0,{ok},{ },-8.5,{unackedAlarm},{ },-16.5,,,,{ok},{ },147.1,{ok},{ },10.9,,,
+2019-10-15 07:41:12,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 07:50:00,{unackedAlarm},{ },-10.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },176.4,{ok},{ },14.4,,,
+2019-10-15 07:52:28,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 08:00:00,{unackedAlarm},{ },-11.5,{ok},{ },-6.5,{unackedAlarm},{ },-14.5,,,,{ok},{ },145.1,{ok},{ },17.0,,,
+2019-10-15 08:00:08,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-15 08:10:00,{unackedAlarm},{ },14.0,{ok},{ },27.0,{unackedAlarm},{ },25.0,,,,{ok},{ },186.6,{ok},{ },14.3,,,
+2019-10-15 08:20:00,{unackedAlarm},{ },36.0,{ok},{ },47.0,{unackedAlarm},{ },47.0,,,,{ok},{ },144.2,{ok},{ },8.1,,,
+2019-10-15 08:30:00,{unackedAlarm},{ },48.0,{ok},{ },62.5,{unackedAlarm},{ },49.5,,,,{ok},{ },166.6,{ok},{ },14.2,,,
+2019-10-15 08:30:15,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-15 08:33:15,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 08:40:00,{unackedAlarm},{ },16.5,{ok},{ },14.5,{unackedAlarm},{ },0.5,,,,{ok},{ },154.9,{ok},{ },12.0,,,
+2019-10-15 08:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-4.5,{unackedAlarm},{ },-8.0,,,,{ok},{ },156.9,{ok},{ },14.3,,,
+2019-10-15 08:53:31,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 08:53:56,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 09:00:00,{unackedAlarm},{ },-18.0,{ok},{ },-8.0,{unackedAlarm},{ },-13.0,,,,{ok},{ },160.8,{ok},{ },12.7,,,
+2019-10-15 09:00:27,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 09:04:02,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 09:04:07,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 09:04:12,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 09:05:02,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 09:05:57,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 09:06:22,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 09:10:00,{unackedAlarm},{ },-17.5,{ok},{ },-8.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },158.8,{ok},{ },9.6,,,
+2019-10-15 09:10:52,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 09:20:00,{unackedAlarm},{ },-10.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },150.5,{ok},{ },12.8,,,
+2019-10-15 09:30:00,{unackedAlarm},{ },-9.5,{ok},{ },-12.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },185.2,{ok},{ },8.9,,,
+2019-10-15 09:32:08,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 09:37:49,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 09:40:00,{unackedAlarm},{ },-2.0,{ok},{ },-8.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },158.3,{ok},{ },16.8,,,
+2019-10-15 09:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },172.5,{ok},{ },13.5,,,
+2019-10-15 10:00:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },171.0,{ok},{ },15.5,,,
+2019-10-15 10:06:46,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 10:10:00,{unackedAlarm},{ },-9.0,{ok},{ },-16.5,{unackedAlarm},{ },-24.0,,,,{ok},{ },158.8,{ok},{ },8.3,,,
+2019-10-15 10:12:56,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 10:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },156.4,{ok},{ },15.8,,,
+2019-10-15 10:28:32,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 10:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },172.0,{ok},{ },17.2,,,
+2019-10-15 10:34:07,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 10:40:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },190.5,{ok},{ },11.7,,,
+2019-10-15 10:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },211.5,{ok},{ },10.5,,,
+2019-10-15 11:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },221.3,{ok},{ },12.4,,,
+2019-10-15 11:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },213.5,{ok},{ },12.2,,,
+2019-10-15 11:20:00,{unackedAlarm},{ },-2.5,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },229.1,{ok},{ },14.3,,,
+2019-10-15 11:27:20,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 11:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-16.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },202.7,{ok},{ },11.4,,,
+2019-10-15 11:33:36,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 11:40:00,{unackedAlarm},{ },-1.0,{ok},{ },-11.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },211.5,{ok},{ },12.7,,,
+2019-10-15 11:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },226.2,{ok},{ },10.5,,,
+2019-10-15 12:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },225.7,{ok},{ },10.2,,,
+2019-10-15 12:01:58,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 12:08:18,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 12:10:00,{unackedAlarm},{ },-4.5,{ok},{ },-10.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },209.1,{ok},{ },13.3,,,
+2019-10-15 12:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },214.5,{ok},{ },14.7,,,
+2019-10-15 12:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },206.2,{ok},{ },12.4,,,
+2019-10-15 12:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },209.6,{ok},{ },12.1,,,
+2019-10-15 12:50:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },212.5,{ok},{ },14.7,,,
+2019-10-15 13:00:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },214.0,{ok},{ },14.2,,,
+2019-10-15 13:05:47,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 13:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },210.1,{ok},{ },12.1,,,
+2019-10-15 13:12:47,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 13:20:00,{unackedAlarm},{ },-6.0,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },230.6,{ok},{ },14.4,,,
+2019-10-15 13:27:53,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 13:30:00,{unackedAlarm},{ },-9.0,{ok},{ },-17.0,{unackedAlarm},{ },-23.5,,,,{ok},{ },225.7,{ok},{ },8.7,,,
+2019-10-15 13:34:13,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 13:39:09,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 13:40:00,{unackedAlarm},{ },-8.5,{ok},{ },-14.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },212.0,{ok},{ },12.1,,,
+2019-10-15 13:45:04,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 13:50:00,{unackedAlarm},{ },-6.0,{ok},{ },-11.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },192.5,{ok},{ },14.4,,,
+2019-10-15 14:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },209.1,{ok},{ },11.7,,,
+2019-10-15 14:00:05,,,,,,,,,,{ok},{ },ON,,,,,,,{ok},{ },OFF
+2019-10-15 14:10:00,{unackedAlarm},{ },17.0,{ok},{ },24.0,{unackedAlarm},{ },21.0,,,,{ok},{ },189.1,{ok},{ },11.1,,,
+2019-10-15 14:20:00,{unackedAlarm},{ },39.5,{ok},{ },46.0,{unackedAlarm},{ },44.5,,,,{ok},{ },191.5,{ok},{ },14.3,,,
+2019-10-15 14:30:00,{unackedAlarm},{ },51.5,{ok},{ },58.5,{unackedAlarm},{ },54.5,,,,{ok},{ },192.0,{ok},{ },13.0,,,
+2019-10-15 14:30:07,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-15 14:33:07,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 14:40:00,{unackedAlarm},{ },8.0,{ok},{ },9.0,{unackedAlarm},{ },4.0,,,,{ok},{ },237.9,{ok},{ },14.2,,,
+2019-10-15 14:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-4.0,{unackedAlarm},{ },-6.5,,,,{ok},{ },213.0,{ok},{ },13.0,,,
+2019-10-15 15:00:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-6.0,{unackedAlarm},{ },-10.5,,,,{ok},{ },224.2,{ok},{ },16.0,,,
+2019-10-15 15:02:54,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 15:03:09,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 15:03:14,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 15:03:59,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 15:10:00,{unackedAlarm},{ },-2.0,{ok},{ },-9.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },218.4,{ok},{ },13.7,,,
+2019-10-15 15:20:00,{unackedAlarm},{ },-6.0,{ok},{ },-10.5,{unackedAlarm},{ },-17.0,,,,{ok},{ },212.0,{ok},{ },13.1,,,
+2019-10-15 15:30:00,{unackedAlarm},{ },-4.5,{ok},{ },-10.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },240.3,{ok},{ },12.0,,,
+2019-10-15 15:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },209.6,{ok},{ },13.2,,,
+2019-10-15 15:50:00,{unackedAlarm},{ },-6.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },215.9,{ok},{ },15.9,,,
+2019-10-15 16:00:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },213.0,{ok},{ },13.7,,,
+2019-10-15 16:05:12,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 16:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },188.1,{ok},{ },14.8,,,
+2019-10-15 16:11:03,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 16:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },208.6,{ok},{ },13.8,,,
+2019-10-15 16:28:14,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 16:30:00,{unackedAlarm},{ },-9.5,{ok},{ },-16.0,{unackedAlarm},{ },-22.0,,,,{ok},{ },196.9,{ok},{ },14.2,,,
+2019-10-15 16:34:14,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 16:38:34,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 16:40:00,{unackedAlarm},{ },-9.0,{ok},{ },-15.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },199.3,{ok},{ },10.0,,,
+2019-10-15 16:44:40,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 16:50:00,{unackedAlarm},{ },-3.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },236.4,{ok},{ },13.6,,,
+2019-10-15 16:57:46,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 17:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-16.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },214.0,{ok},{ },10.3,,,
+2019-10-15 17:03:41,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 17:10:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },215.4,{ok},{ },14.7,,,
+2019-10-15 17:20:00,{unackedAlarm},{ },-6.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },239.4,{ok},{ },13.3,,,
+2019-10-15 17:30:00,{unackedAlarm},{ },-8.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },229.6,{ok},{ },11.9,,,
+2019-10-15 17:30:05,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 17:36:20,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 17:40:00,{unackedAlarm},{ },-3.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },192.0,{ok},{ },16.3,,,
+2019-10-15 17:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },209.1,{ok},{ },9.9,,,
+2019-10-15 17:50:51,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 17:57:16,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 18:00:00,{unackedAlarm},{ },-3.5,{ok},{ },-12.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },186.6,{ok},{ },15.2,,,
+2019-10-15 18:05:07,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 18:10:00,{unackedAlarm},{ },-9.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },181.8,{ok},{ },11.0,,,
+2019-10-15 18:12:08,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 18:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-13.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },178.8,{ok},{ },17.2,,,
+2019-10-15 18:27:09,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 18:30:00,{unackedAlarm},{ },-10.5,{ok},{ },-18.0,{unackedAlarm},{ },-24.0,,,,{ok},{ },180.8,{ok},{ },8.8,,,
+2019-10-15 18:34:14,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 18:40:00,{unackedAlarm},{ },-7.5,{ok},{ },-15.0,{unackedAlarm},{ },-21.5,,,,{ok},{ },177.4,{ok},{ },8.9,,,
+2019-10-15 18:40:19,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 18:47:35,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 18:50:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },185.7,{ok},{ },13.7,,,
+2019-10-15 18:54:10,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 19:00:00,{unackedAlarm},{ },-9.0,{ok},{ },-11.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },173.0,{ok},{ },14.9,,,
+2019-10-15 19:01:26,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 19:08:26,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 19:10:00,{unackedAlarm},{ },-8.5,{ok},{ },-15.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },176.9,{ok},{ },14.2,,,
+2019-10-15 19:15:51,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 19:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },180.3,{ok},{ },15.7,,,
+2019-10-15 19:29:57,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 19:30:00,{unackedAlarm},{ },-9.0,{ok},{ },-15.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },181.3,{ok},{ },11.9,,,
+2019-10-15 19:37:18,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 19:40:00,{unackedAlarm},{ },-8.0,{ok},{ },-14.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },178.3,{ok},{ },11.7,,,
+2019-10-15 19:40:33,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 19:47:58,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 19:50:00,{unackedAlarm},{ },-6.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },188.1,{ok},{ },12.1,,,
+2019-10-15 19:52:59,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 20:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-7.0,{unackedAlarm},{ },-15.5,,,,{ok},{ },180.8,{ok},{ },11.6,,,
+2019-10-15 20:00:04,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-15 20:10:00,{unackedAlarm},{ },20.0,{ok},{ },26.5,{unackedAlarm},{ },24.0,,,,{ok},{ },173.9,{ok},{ },15.9,,,
+2019-10-15 20:20:00,{unackedAlarm},{ },39.5,{ok},{ },46.5,{unackedAlarm},{ },47.0,,,,{ok},{ },183.2,{ok},{ },13.7,,,
+2019-10-15 20:30:00,{unackedAlarm},{ },52.0,{ok},{ },60.0,{unackedAlarm},{ },49.0,,,,{ok},{ },171.5,{ok},{ },13.6,,,
+2019-10-15 20:30:11,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-15 20:33:11,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 20:40:00,{unackedAlarm},{ },10.5,{ok},{ },9.5,{unackedAlarm},{ },2.0,,,,{ok},{ },196.9,{ok},{ },12.7,,,
+2019-10-15 20:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-5.5,{unackedAlarm},{ },-8.5,,,,{ok},{ },194.9,{ok},{ },8.7,,,
+2019-10-15 20:53:02,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 20:53:07,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 20:53:37,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 20:54:32,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 20:54:57,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 20:55:02,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 20:55:12,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 20:55:17,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 21:00:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-8.0,{unackedAlarm},{ },-12.0,,,,{ok},{ },173.0,{ok},{ },13.7,,,
+2019-10-15 21:02:23,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 21:06:43,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 21:10:00,{unackedAlarm},{ },-2.5,{ok},{ },-7.0,{unackedAlarm},{ },-13.0,,,,{ok},{ },168.6,{ok},{ },14.9,,,
+2019-10-15 21:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.5,{unackedAlarm},{ },-17.5,,,,{ok},{ },165.6,{ok},{ },16.0,,,
+2019-10-15 21:26:29,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 21:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-13.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },167.6,{ok},{ },15.3,,,
+2019-10-15 21:32:04,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 21:40:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },166.6,{ok},{ },16.9,,,
+2019-10-15 21:50:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },195.9,{ok},{ },9.8,,,
+2019-10-15 21:55:21,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 22:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-11.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },172.5,{ok},{ },12.4,,,
+2019-10-15 22:01:11,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 22:10:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },170.0,{ok},{ },12.4,,,
+2019-10-15 22:12:02,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 22:18:42,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 22:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-8.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },162.7,{ok},{ },18.3,,,
+2019-10-15 22:30:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },177.8,{ok},{ },15.9,,,
+2019-10-15 22:35:43,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 22:40:00,{unackedAlarm},{ },-9.5,{ok},{ },-15.0,{unackedAlarm},{ },-23.0,,,,{ok},{ },176.4,{ok},{ },11.5,,,
+2019-10-15 22:41:58,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 22:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },196.9,{ok},{ },12.8,,,
+2019-10-15 22:54:24,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 23:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-10.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },188.1,{ok},{ },11.0,,,
+2019-10-15 23:00:59,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 23:10:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },177.8,{ok},{ },15.4,,,
+2019-10-15 23:18:10,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 23:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },201.8,{ok},{ },15.2,,,
+2019-10-15 23:25:36,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 23:28:26,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 23:30:00,{unackedAlarm},{ },-9.0,{ok},{ },-15.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },176.4,{ok},{ },12.8,,,
+2019-10-15 23:35:11,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 23:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },186.1,{ok},{ },12.1,,,
+2019-10-15 23:41:57,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-15 23:48:47,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-15 23:50:00,{unackedAlarm},{ },-6.0,{ok},{ },-9.0,{unackedAlarm},{ },-15.5,,,,{ok},{ },176.4,{ok},{ },16.1,,,
+2019-10-15 23:57:48,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 00:00:00,{unackedAlarm},{ },-10.0,{ok},{ },-17.0,{unackedAlarm},{ },-22.5,,,,{ok},{ },177.4,{ok},{ },12.7,,,
+2019-10-16 00:04:54,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 00:09:34,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 00:10:00,{unackedAlarm},{ },-9.0,{ok},{ },-15.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },160.8,{ok},{ },11.3,,,
+2019-10-16 00:17:15,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 00:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },170.0,{ok},{ },15.3,,,
+2019-10-16 00:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },170.5,{ok},{ },13.3,,,
+2019-10-16 00:31:45,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 00:38:56,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 00:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-9.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },152.0,{ok},{ },13.6,,,
+2019-10-16 00:50:00,{unackedAlarm},{ },-8.5,{ok},{ },-15.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },163.2,{ok},{ },15.5,,,
+2019-10-16 00:52:22,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 01:00:00,{unackedAlarm},{ },-7.5,{ok},{ },-7.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },143.7,{ok},{ },20.5,,,
+2019-10-16 01:00:02,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 01:10:00,{unackedAlarm},{ },-8.5,{ok},{ },-14.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },176.9,{ok},{ },13.3,,,
+2019-10-16 01:15:18,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 01:20:00,{unackedAlarm},{ },-8.5,{ok},{ },-15.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },170.5,{ok},{ },13.2,,,
+2019-10-16 01:23:18,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 01:30:00,{unackedAlarm},{ },-8.0,{ok},{ },-14.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },164.7,{ok},{ },15.2,,,
+2019-10-16 01:34:59,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 01:40:00,{unackedAlarm},{ },-11.0,{ok},{ },-15.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },162.7,{ok},{ },9.2,,,
+2019-10-16 01:42:40,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 01:50:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },150.5,{ok},{ },15.2,,,
+2019-10-16 01:54:25,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 02:00:00,{unackedAlarm},{ },-10.5,{ok},{ },-14.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },161.7,{ok},{ },9.8,,,
+2019-10-16 02:00:06,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-16 02:10:00,{unackedAlarm},{ },18.5,{ok},{ },26.0,{unackedAlarm},{ },24.0,,,,{ok},{ },159.3,{ok},{ },14.2,,,
+2019-10-16 02:20:00,{unackedAlarm},{ },39.5,{ok},{ },46.5,{unackedAlarm},{ },47.0,,,,{ok},{ },159.3,{ok},{ },13.6,,,
+2019-10-16 02:30:00,{unackedAlarm},{ },53.0,{ok},{ },61.5,{unackedAlarm},{ },48.0,,,,{ok},{ },155.9,{ok},{ },15.3,,,
+2019-10-16 02:30:12,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-16 02:33:13,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 02:40:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },9.5,{unackedAlarm},{ },2.5,,,,{ok},{ },185.2,{ok},{ },9.6,,,
+2019-10-16 02:50:00,"{fault,unackedAlarm}",{ },-39.5,{ok},{ },-3.5,{unackedAlarm},{ },-6.5,,,,{ok},{ },164.7,{ok},{ },13.7,,,
+2019-10-16 02:51:49,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 02:52:04,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 02:54:19,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 02:58:09,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 03:00:00,{unackedAlarm},{ },-3.0,{ok},{ },-4.5,{unackedAlarm},{ },-8.5,,,,{ok},{ },151.5,{ok},{ },16.4,,,
+2019-10-16 03:10:00,{unackedAlarm},{ },-10.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },154.9,{ok},{ },13.0,,,
+2019-10-16 03:12:30,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 03:17:20,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 03:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-11.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },162.2,{ok},{ },14.8,,,
+2019-10-16 03:30:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },163.7,{ok},{ },16.3,,,
+2019-10-16 03:36:51,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 03:40:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.5,{unackedAlarm},{ },-22.0,,,,{ok},{ },148.6,{ok},{ },12.2,,,
+2019-10-16 03:42:37,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 03:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },163.7,{ok},{ },12.6,,,
+2019-10-16 03:53:07,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 03:59:28,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 04:00:00,{unackedAlarm},{ },-6.5,{ok},{ },-5.5,{unackedAlarm},{ },-14.0,,,,{ok},{ },153.9,{ok},{ },12.8,,,
+2019-10-16 04:05:08,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 04:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },152.5,{ok},{ },12.7,,,
+2019-10-16 04:12:13,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 04:20:00,{unackedAlarm},{ },-7.0,{ok},{ },-12.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },173.0,{ok},{ },14.9,,,
+2019-10-16 04:23:14,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 04:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-10.0,{unackedAlarm},{ },-17.5,,,,{ok},{ },175.4,{ok},{ },13.7,,,
+2019-10-16 04:30:50,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 04:35:35,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 04:40:00,{unackedAlarm},{ },-8.5,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },162.2,{ok},{ },11.1,,,
+2019-10-16 04:41:45,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 04:50:00,{unackedAlarm},{ },-3.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },179.3,{ok},{ },11.1,,,
+2019-10-16 04:53:16,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 04:59:36,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 05:00:00,{unackedAlarm},{ },-6.0,{ok},{ },-6.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },165.6,{ok},{ },10.2,,,
+2019-10-16 05:02:41,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 05:09:57,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 05:10:00,{unackedAlarm},{ },-7.0,{ok},{ },-7.0,{unackedAlarm},{ },-15.0,,,,{ok},{ },158.8,{ok},{ },12.2,,,
+2019-10-16 05:13:42,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 05:20:00,{unackedAlarm},{ },-6.5,{ok},{ },-11.5,{unackedAlarm},{ },-16.5,,,,{ok},{ },164.2,{ok},{ },15.5,,,
+2019-10-16 05:21:13,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 05:29:33,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 05:30:00,{unackedAlarm},{ },-8.0,{ok},{ },-15.0,{unackedAlarm},{ },-21.0,,,,{ok},{ },164.7,{ok},{ },13.7,,,
+2019-10-16 05:36:59,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 05:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-13.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },155.4,{ok},{ },15.0,,,
+2019-10-16 05:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-14.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },165.6,{ok},{ },14.9,,,
+2019-10-16 05:55:30,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 06:00:00,{unackedAlarm},{ },-9.5,{ok},{ },-15.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },160.3,{ok},{ },13.2,,,
+2019-10-16 06:03:15,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 06:06:00,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 06:10:00,{unackedAlarm},{ },-8.5,{ok},{ },-14.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },155.9,{ok},{ },13.5,,,
+2019-10-16 06:14:21,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 06:20:00,{unackedAlarm},{ },-8.5,{ok},{ },-14.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },157.3,{ok},{ },15.4,,,
+2019-10-16 06:22:26,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 06:30:00,{unackedAlarm},{ },-9.0,{ok},{ },-8.5,{unackedAlarm},{ },-15.0,,,,{ok},{ },154.9,{ok},{ },14.6,,,
+2019-10-16 06:30:27,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 06:40:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },157.8,{ok},{ },14.7,,,
+2019-10-16 06:42:27,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 06:50:00,{unackedAlarm},{ },-8.5,{ok},{ },-8.5,{unackedAlarm},{ },-15.5,,,,{ok},{ },164.7,{ok},{ },10.3,,,
+2019-10-16 06:50:33,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 06:56:08,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 07:00:00,{unackedAlarm},{ },-8.5,{ok},{ },-15.0,{unackedAlarm},{ },-20.0,,,,{ok},{ },163.7,{ok},{ },14.4,,,
+2019-10-16 07:04:29,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 07:10:00,{unackedAlarm},{ },-8.0,{ok},{ },-13.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },165.6,{ok},{ },14.9,,,
+2019-10-16 07:13:24,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 07:20:00,{unackedAlarm},{ },-9.5,{ok},{ },-10.5,{unackedAlarm},{ },-16.5,,,,{ok},{ },172.5,{ok},{ },12.5,,,
+2019-10-16 07:21:20,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 07:30:00,{unackedAlarm},{ },-6.5,{ok},{ },-14.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },167.6,{ok},{ },14.8,,,
+2019-10-16 07:32:35,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 07:40:00,{unackedAlarm},{ },-8.5,{ok},{ },-8.5,{unackedAlarm},{ },-15.5,,,,{ok},{ },154.9,{ok},{ },9.2,,,
+2019-10-16 07:40:31,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 07:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },166.6,{ok},{ },14.7,,,
+2019-10-16 07:54:57,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 08:00:00,{unackedAlarm},{ },-11.0,{ok},{ },-15.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },161.7,{ok},{ },11.9,,,
+2019-10-16 08:00:07,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-16 08:10:00,{unackedAlarm},{ },18.0,{ok},{ },25.0,{unackedAlarm},{ },23.0,,,,{ok},{ },152.0,{ok},{ },15.2,,,
+2019-10-16 08:20:00,{unackedAlarm},{ },38.5,{ok},{ },45.5,{unackedAlarm},{ },46.0,,,,{ok},{ },155.4,{ok},{ },12.1,,,
+2019-10-16 08:30:00,{unackedAlarm},{ },51.5,{ok},{ },59.5,{unackedAlarm},{ },51.5,,,,{ok},{ },155.4,{ok},{ },13.7,,,
+2019-10-16 08:30:09,,,,,,,,,,{ok},{ },OFF,,,,,,,,,
+2019-10-16 08:33:09,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 08:40:00,{unackedAlarm},{ },15.0,{ok},{ },8.0,{unackedAlarm},{ },2.5,,,,{ok},{ },193.0,{ok},{ },14.3,,,
+2019-10-16 08:50:00,{unackedAlarm},{ },-15.5,{ok},{ },-4.5,{unackedAlarm},{ },-7.0,,,,{ok},{ },199.3,{ok},{ },12.8,,,
+2019-10-16 08:55:25,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 08:55:35,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 09:00:00,{unackedAlarm},{ },-1.5,{ok},{ },-7.0,{unackedAlarm},{ },-12.0,,,,{ok},{ },202.7,{ok},{ },14.1,,,
+2019-10-16 09:10:00,{unackedAlarm},{ },-2.5,{ok},{ },-10.0,{unackedAlarm},{ },-15.5,,,,{ok},{ },194.4,{ok},{ },12.4,,,
+2019-10-16 09:20:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.0,,,,{ok},{ },196.9,{ok},{ },12.2,,,
+2019-10-16 09:30:00,{unackedAlarm},{ },-3.0,{ok},{ },-10.5,{unackedAlarm},{ },-16.5,,,,{ok},{ },198.4,{ok},{ },15.5,,,
+2019-10-16 09:40:00,{unackedAlarm},{ },-3.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },206.2,{ok},{ },14.3,,,
+2019-10-16 09:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },200.3,{ok},{ },12.0,,,
+2019-10-16 10:00:00,{unackedAlarm},{ },-6.0,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },205.2,{ok},{ },13.1,,,
+2019-10-16 10:06:40,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 10:10:00,{unackedAlarm},{ },-9.5,{ok},{ },-15.5,{unackedAlarm},{ },-22.5,,,,{ok},{ },185.2,{ok},{ },11.6,,,
+2019-10-16 10:12:30,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 10:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-13.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },198.8,{ok},{ },12.7,,,
+2019-10-16 10:30:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.5,,,,{ok},{ },195.4,{ok},{ },9.1,,,
+2019-10-16 10:30:21,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 10:36:32,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 10:40:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.5,,,,{ok},{ },196.9,{ok},{ },12.4,,,
+2019-10-16 10:50:00,{unackedAlarm},{ },-3.0,{ok},{ },-11.5,{unackedAlarm},{ },-18.5,,,,{ok},{ },231.6,{ok},{ },12.8,,,
+2019-10-16 11:00:00,{unackedAlarm},{ },-8.0,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },210.1,{ok},{ },12.6,,,
+2019-10-16 11:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-14.5,{unackedAlarm},{ },-21.0,,,,{ok},{ },210.6,{ok},{ },12.0,,,
+2019-10-16 11:20:00,{unackedAlarm},{ },-5.5,{ok},{ },-11.5,{unackedAlarm},{ },-18.0,,,,{ok},{ },236.9,{ok},{ },14.8,,,
+2019-10-16 11:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.0,{unackedAlarm},{ },-20.5,,,,{ok},{ },235.5,{ok},{ },12.6,,,
+2019-10-16 11:34:25,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 11:40:00,{unackedAlarm},{ },-5.0,{ok},{ },-10.0,{unackedAlarm},{ },-17.0,,,,{ok},{ },222.3,{ok},{ },14.7,,,
+2019-10-16 11:40:35,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 11:50:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },219.3,{ok},{ },15.7,,,
+2019-10-16 12:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },213.0,{ok},{ },13.6,,,
+2019-10-16 12:10:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },223.3,{ok},{ },15.3,,,
+2019-10-16 12:19:23,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 12:20:00,{unackedAlarm},{ },-9.0,{ok},{ },-15.0,{unackedAlarm},{ },-21.5,,,,{ok},{ },209.6,{ok},{ },11.6,,,
+2019-10-16 12:25:58,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 12:30:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },217.9,{ok},{ },13.6,,,
+2019-10-16 12:40:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.0,{unackedAlarm},{ },-19.0,,,,{ok},{ },223.3,{ok},{ },13.8,,,
+2019-10-16 12:43:24,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 12:49:59,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 12:50:00,{unackedAlarm},{ },-7.0,{ok},{ },-7.0,{unackedAlarm},{ },-15.5,,,,{ok},{ },216.9,{ok},{ },11.6,,,
+2019-10-16 13:00:00,{unackedAlarm},{ },-7.0,{ok},{ },-13.5,{unackedAlarm},{ },-20.0,,,,{ok},{ },222.8,{ok},{ },13.6,,,
+2019-10-16 13:10:00,{unackedAlarm},{ },-7.5,{ok},{ },-13.5,{unackedAlarm},{ },-20.5,,,,{ok},{ },220.8,{ok},{ },13.5,,,
+2019-10-16 13:20:00,{unackedAlarm},{ },-7.5,{ok},{ },-13.0,{unackedAlarm},{ },-19.5,,,,{ok},{ },243.8,{ok},{ },13.2,,,
+2019-10-16 13:25:11,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 13:30:00,{unackedAlarm},{ },-9.0,{ok},{ },-11.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },229.6,{ok},{ },13.6,,,
+2019-10-16 13:31:47,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 13:40:00,{unackedAlarm},{ },-5.0,{ok},{ },-12.0,{unackedAlarm},{ },-18.5,,,,{ok},{ },231.1,{ok},{ },15.0,,,
+2019-10-16 13:47:38,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 13:50:00,{unackedAlarm},{ },-10.0,{ok},{ },-17.0,{unackedAlarm},{ },-23.5,,,,{ok},{ },205.7,{ok},{ },15.2,,,
+2019-10-16 13:54:08,,,,,,,,,,,,,,,,,,,{ok},{ },ON
+2019-10-16 14:00:00,{unackedAlarm},{ },-5.5,{ok},{ },-12.5,{unackedAlarm},{ },-19.0,,,,{ok},{ },208.1,{ok},{ },13.7,,,
+2019-10-16 14:00:03,,,,,,,,,,{ok},{ },ON,,,,,,,,,
+2019-10-16 14:00:08,,,,,,,,,,,,,,,,,,,{ok},{ },OFF
+2019-10-16 14:10:00,{unackedAlarm},{ },17.5,{ok},{ },23.0,{unackedAlarm},{ },21.0,,,,{ok},{ },205.2,{ok},{ },11.7,,,
+2019-10-16 14:20:00,{unackedAlarm},{ },38.0,{ok},{ },44.0,{unackedAlarm},{ },44.0,,,,{ok},{ },208.1,{ok},{ },13.8,,,
