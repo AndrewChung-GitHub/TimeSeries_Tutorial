@@ -1,5 +1,5 @@
 arch==4.11
-certifi==2019.9.11
+certifi==2022.12.7
 cycler==0.10.0
 descartes==1.1.0
 joblib==0.14.0
